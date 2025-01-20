@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chinese Name Generator</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <button id="menuBtn" class="menu-btn">
+            <span class="menu-icon">☰</span>
+            MENU
+        </button>
+        <h1>Chinese Name Generator</h1>
+        <div class="header-right">
+            <button class="lang-btn">EN</button>
+            <button class="settings-btn">⚙</button>
+        </div>
+    </header>
+
+    <main>
+        <div class="translator-container">
+            <div class="input-section">
+                <h2>Your Name</h2>
+                <textarea id="englishName" placeholder="Enter your English name..."></textarea>
+            </div>
+
+            <div class="style-section">
+                <h3>Style Preferences</h3>
+                <div class="style-options">
+                    <div class="style-option selected" data-style="classical">
+                        Classical Style
+                    </div>
+                    <div class="style-option" data-style="modern">
+                        Modern Style
+                    </div>
+                    <div class="style-option" data-style="artistic">
+                        Artistic Style
+                    </div>
+                </div>
+                <button id="generateBtn" class="generate-btn">Generate Name</button>
+            </div>
+
+            <div class="output-section">
+                <h2>Chinese Name</h2>
+                <div id="chineseName" class="output-display"></div>
+            </div>
+        </div>
+
+        <section class="info-section">
+            <h2>What Is the Chinese Name Generator?</h2>
+            <p>The Chinese Name Generator helps you create a meaningful Chinese name based on your English name. It uses traditional Chinese characters and cultural elements to generate names that respect Chinese naming conventions.</p>
+            
+            <h3>How to Use:</h3>
+            <p>Simply enter your English name in the input box, select your preferred style, and click the "Generate Name" button. The tool will create a culturally appropriate Chinese name for you.</p>
+            
+            <h3>Note:</h3>
+            <p>Each generated name is carefully crafted to maintain balance between meaning, pronunciation, and cultural significance.</p>
+        </section>
+    </main>
+
+    <script src="js/script.js"></script>
+</body>
+</html> 

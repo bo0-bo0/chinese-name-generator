@@ -1,0 +1,16 @@
+# Cloudflare Workers
+.env
+.dev.vars
+wrangler.toml
+
+# Dependencies
+node_modules/
+.wrangler/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
