@@ -4,7 +4,7 @@ export default {
     if (request.method === 'OPTIONS') {
       return new Response(null, {
         headers: {
-          'Access-Control-Allow-Origin': '*',
+          'Access-Control-Allow-Origin': 'https://chinese-name-generator-7rs.pages.dev',
           'Access-Control-Allow-Methods': 'POST',
           'Access-Control-Allow-Headers': 'Content-Type',
           'Access-Control-Max-Age': '86400',
