@@ -5,8 +5,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const generateBtn = document.getElementById('generateBtn');
     const styleOptions = document.querySelectorAll('.style-option');
 
-    // API配置 - 请将此URL替换为您的实际Worker URL
-    const API_URL = 'https://chinese-name-generator.crow-boy.workers.dev';
+    // API配置
+    const API_URL = 'https://api.coze.cn/v1/workflow/run';  // 直接使用 Coze API
+    const API_KEY = 'pat_s6y1wmZZpPpvpyzWnbj5xf3PNYHXtq1E8wKcIYDAEaaTIjivLCkIQagW3OGmaJA8';
 
     // 样式选择
     let selectedStyle = 'classical';
@@ -33,6 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const response = await fetch(API_URL, {
                 method: 'POST',
                 headers: {
+                    'Authorization': `Bearer ${API_KEY}`,
                     'Content-Type': 'application/json'
                 },
                 body: JSON.stringify({
@@ -40,7 +42,8 @@ document.addEventListener('DOMContentLoaded', () => {
                         eng_name: englishName,
                         requirements: `请使用${selectedStyle === 'classical' ? '有中国古典意蕴的汉字' : 
                                     selectedStyle === 'modern' ? '现代简约的汉字' : '富有艺术气息的汉字'}`
-                    }
+                    },
+                    workflow_id: "7460645771781423167"
                 })
             });
 
@@ -48,54 +51,47 @@ document.addEventListener('DOMContentLoaded', () => {
                 throw new Error('API request failed');
             }
 
-            const data = await response.json();
-            console.log('API Response:', data);
+            const responseData = await response.json();
+            console.log('API Response:', responseData);
             
-            // 解析嵌套的JSON字符串
-            if (data.data) {
-                const innerData = JSON.parse(data.data);
-                if (innerData.data) {
-                    const lines = innerData.data.split('\n');
-                    
-                    // 清除之前的内容
-                    chineseNameOutput.innerHTML = '';
-                    
-                    // 添加中文名
-                    const nameElement = document.createElement('div');
-                    nameElement.className = 'chinese-name';
-                    nameElement.textContent = lines[0];
-                    chineseNameOutput.appendChild(nameElement);
-                    
-                    // 添加拼音
-                    if (lines[1]) {
-                        const pinyinElement = document.createElement('div');
-                        pinyinElement.className = 'pinyin';
-                        pinyinElement.textContent = lines[1].replace('[', '').replace(']', '');
-                        chineseNameOutput.appendChild(pinyinElement);
-                    }
-                    
-                    // 添加诗句解释
-                    if (lines[2]) {
-                        const meaningElement = document.createElement('div');
-                        meaningElement.className = 'name-meaning';
-                        meaningElement.textContent = lines[2];
-                        chineseNameOutput.appendChild(meaningElement);
-                    }
-                    
-                    // 添加英文翻译
-                    if (lines[3]) {
-                        const translationElement = document.createElement('div');
-                        translationElement.className = 'name-translation';
-                        translationElement.textContent = lines[3];
-                        chineseNameOutput.appendChild(translationElement);
-                    }
-                    
-                    return;
+            if (responseData.code === 0 && responseData.data && responseData.data.data) {
+                const lines = responseData.data.data.split('\n');
+                
+                // 清除之前的内容
+                chineseNameOutput.innerHTML = '';
+                
+                // 添加中文名
+                const nameElement = document.createElement('div');
+                nameElement.className = 'chinese-name';
+                nameElement.textContent = lines[0];
+                chineseNameOutput.appendChild(nameElement);
+                
+                // 添加拼音
+                if (lines[1]) {
+                    const pinyinElement = document.createElement('div');
+                    pinyinElement.className = 'pinyin';
+                    pinyinElement.textContent = lines[1].replace('[', '').replace(']', '');
+                    chineseNameOutput.appendChild(pinyinElement);
                 }
+                
+                // 添加诗句解释
+                if (lines[2]) {
+                    const meaningElement = document.createElement('div');
+                    meaningElement.className = 'name-meaning';
+                    meaningElement.textContent = lines[2];
+                    chineseNameOutput.appendChild(meaningElement);
+                }
+                
+                // 添加英文翻译
+                if (lines[3]) {
+                    const translationElement = document.createElement('div');
+                    translationElement.className = 'name-translation';
+                    translationElement.textContent = lines[3];
+                    chineseNameOutput.appendChild(translationElement);
+                }
+            } else {
+                throw new Error('Invalid response format');
             }
-            
-            chineseNameOutput.textContent = '未能生成名字';
-
         } catch (error) {
             console.error('Error:', error);
             chineseNameOutput.textContent = '生成失败，请稍后重试';
