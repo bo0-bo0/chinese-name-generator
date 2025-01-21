@@ -54,43 +54,50 @@ document.addEventListener('DOMContentLoaded', () => {
             const responseData = await response.json();
             console.log('API Response:', responseData);
             
-            if (responseData.code === 0 && responseData.data && responseData.data.data) {
-                const lines = responseData.data.data.split('\n');
+            if (responseData.code === 0 && responseData.data) {
+                // 解析嵌套的 JSON 字符串
+                const parsedData = JSON.parse(responseData.data);
                 
-                // 清除之前的内容
-                chineseNameOutput.innerHTML = '';
-                
-                // 添加中文名
-                const nameElement = document.createElement('div');
-                nameElement.className = 'chinese-name';
-                nameElement.textContent = lines[0];
-                chineseNameOutput.appendChild(nameElement);
-                
-                // 添加拼音
-                if (lines[1]) {
-                    const pinyinElement = document.createElement('div');
-                    pinyinElement.className = 'pinyin';
-                    pinyinElement.textContent = lines[1].replace('[', '').replace(']', '');
-                    chineseNameOutput.appendChild(pinyinElement);
-                }
-                
-                // 添加诗句解释
-                if (lines[2]) {
-                    const meaningElement = document.createElement('div');
-                    meaningElement.className = 'name-meaning';
-                    meaningElement.textContent = lines[2];
-                    chineseNameOutput.appendChild(meaningElement);
-                }
-                
-                // 添加英文翻译
-                if (lines[3]) {
-                    const translationElement = document.createElement('div');
-                    translationElement.className = 'name-translation';
-                    translationElement.textContent = lines[3];
-                    chineseNameOutput.appendChild(translationElement);
+                if (parsedData.data) {
+                    const lines = parsedData.data.split('\n');
+                    
+                    // 清除之前的内容
+                    chineseNameOutput.innerHTML = '';
+                    
+                    // 添加中文名
+                    const nameElement = document.createElement('div');
+                    nameElement.className = 'chinese-name';
+                    nameElement.textContent = lines[0];
+                    chineseNameOutput.appendChild(nameElement);
+                    
+                    // 添加拼音
+                    if (lines[1]) {
+                        const pinyinElement = document.createElement('div');
+                        pinyinElement.className = 'pinyin';
+                        pinyinElement.textContent = lines[1].replace('[', '').replace(']', '');
+                        chineseNameOutput.appendChild(pinyinElement);
+                    }
+                    
+                    // 添加诗句解释
+                    if (lines[2]) {
+                        const meaningElement = document.createElement('div');
+                        meaningElement.className = 'name-meaning';
+                        meaningElement.textContent = lines[2];
+                        chineseNameOutput.appendChild(meaningElement);
+                    }
+                    
+                    // 添加英文翻译
+                    if (lines[3]) {
+                        const translationElement = document.createElement('div');
+                        translationElement.className = 'name-translation';
+                        translationElement.textContent = lines[3];
+                        chineseNameOutput.appendChild(translationElement);
+                    }
+                } else {
+                    throw new Error('Invalid response data format');
                 }
             } else {
-                throw new Error('Invalid response format');
+                throw new Error('API request failed');
             }
         } catch (error) {
             console.error('Error:', error);
