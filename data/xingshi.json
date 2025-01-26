@@ -1,0 +1,3283 @@
+{
+  "surnames": [
+    {
+      "hanzi": "李",
+      "yingwen": "Li",
+      "ipa": "/li˨˩˦/",
+      "meaning": "Plum tree (symbolizing resilience)",
+      "population": "≈7.9%",
+      "facts": [
+        "Descendants of Laozi (Daoism founder) held privileged status in Tang Dynasty",
+        "Over 30 Korean 'Lee' clans trace roots to Li immigrants from Shang Dynasty"
+      ]
+    },
+    {
+      "hanzi": "王",
+      "yingwen": "Wang",
+      "ipa": "/wɑŋ˧˥/",
+      "meaning": "Cosmic ruler in Three Realms philosophy",
+      "population": "≈7.4%",
+      "facts": [
+        "One of the oldest surnames, dating back to the Zhou Dynasty",
+        "Common among royalty and nobility throughout Chinese history"
+      ]
+    },
+    {
+      "hanzi": "张",
+      "yingwen": "Zhang",
+      "ipa": "/ʈʂɑŋ˥˥/",
+      "meaning": "Stretch or extend (symbolizing expansion and growth)",
+      "population": "≈7.1%",
+      "facts": [
+        "Originated from the descendants of the Yellow Emperor",
+        "One of the most common surnames in northern China"
+      ]
+    },
+    {
+      "hanzi": "刘",
+      "yingwen": "Liu",
+      "ipa": "/li̯oʊ˧˥/",
+      "meaning": "Kill or destroy (historically associated with martial prowess)",
+      "population": "≈5.4%",
+      "facts": [
+        "Imperial surname of the Han Dynasty, one of China's golden ages",
+        "Widely distributed across China, with significant populations in Henan and Shandong"
+      ]
+    },
+    {
+      "hanzi": "陈",
+      "yingwen": "Chen",
+      "ipa": "/ʈʂʰən˧˥/",
+      "meaning": "Exhibit or display (symbolizing prominence and visibility)",
+      "population": "≈4.7%",
+      "facts": [
+        "Originated from the ancient state of Chen during the Zhou Dynasty",
+        "One of the most common surnames in southern China, especially in Fujian and Guangdong"
+      ]
+    },
+    {
+      "hanzi": "杨",
+      "yingwen": "Yang",
+      "ipa": "/jɑŋ˧˥/",
+      "meaning": "Poplar tree (symbolizing strength and resilience)",
+      "population": "≈3.1%",
+      "facts": [
+        "Descendants of the Yellow Emperor and the Yan Emperor",
+        "Prominent in the Yangtze River region, with significant populations in Sichuan and Hubei"
+      ]
+    },
+    {
+      "hanzi": "赵",
+      "yingwen": "Zhao",
+      "ipa": "/ʈʂɑʊ˥˩/",
+      "meaning": "Walk or move (symbolizing progress and advancement)",
+      "population": "≈2.7%",
+      "facts": [
+        "Imperial surname of the Song Dynasty",
+        "One of the most common surnames in northern China, particularly in Hebei and Shanxi"
+      ]
+    },
+    {
+      "hanzi": "黄",
+      "yingwen": "Huang",
+      "ipa": "/xwɑŋ˧˥/",
+      "meaning": "Yellow (symbolizing earth and centrality in Chinese cosmology)",
+      "population": "≈2.2%",
+      "facts": [
+        "Originated from the ancient state of Huang during the Zhou Dynasty",
+        "Prominent in southern China, especially in Guangdong and Guangxi"
+      ]
+    },
+    {
+      "hanzi": "周",
+      "yingwen": "Zhou",
+      "ipa": "/ʈʂoʊ˥˥/",
+      "meaning": "Circumference or cycle (symbolizing completeness and continuity)",
+      "population": "≈2.1%",
+      "facts": [
+        "Imperial surname of the Zhou Dynasty, the longest-lasting dynasty in Chinese history",
+        "Widely distributed across China, with significant populations in Henan and Shaanxi"
+      ]
+    },
+    {
+      "hanzi": "吴",
+      "yingwen": "Wu",
+      "ipa": "/u˧˥/",
+      "meaning": "Military or martial (symbolizing strength and bravery)",
+      "population": "≈2.0%",
+      "facts": [
+        "Originated from the ancient state of Wu during the Zhou Dynasty",
+        "Prominent in southern China, especially in Jiangsu and Zhejiang"
+      ]
+    },
+    {
+      "hanzi": "徐",
+      "yingwen": "Xu",
+      "ipa": "/ɕy˧˥/",
+      "meaning": "Slow or gradual (symbolizing patience and perseverance)",
+      "population": "≈1.9%",
+      "facts": [
+        "Descendants of the ancient state of Xu during the Zhou Dynasty",
+        "One of the most common surnames in eastern China, particularly in Jiangsu and Anhui"
+      ]
+    },
+    {
+      "hanzi": "孙",
+      "yingwen": "Sun",
+      "ipa": "/su̯ən˥˥/",
+      "meaning": "Grandson or descendant (symbolizing lineage and heritage)",
+      "population": "≈1.7%",
+      "facts": [
+        "Originated from the ancient state of Chen during the Zhou Dynasty",
+        "Prominent in northern China, especially in Shandong and Henan"
+      ]
+    },
+    {
+      "hanzi": "胡",
+      "yingwen": "Hu",
+      "ipa": "/xu˧˥/",
+      "meaning": "Beard or whiskers (symbolizing wisdom and maturity)",
+      "population": "≈1.6%",
+      "facts": [
+        "Originated from the ancient state of Hu during the Zhou Dynasty",
+        "Widely distributed across China, with significant populations in Hunan and Hubei"
+      ]
+    },
+    {
+      "hanzi": "朱",
+      "yingwen": "Zhu",
+      "ipa": "/ʈʂu˥˥/",
+      "meaning": "Vermilion or cinnabar (symbolizing nobility and vitality)",
+      "population": "≈1.5%",
+      "facts": [
+        "Imperial surname of the Ming Dynasty",
+        "Prominent in southern China, especially in Fujian and Guangdong"
+      ]
+    },
+    {
+      "hanzi": "高",
+      "yingwen": "Gao",
+      "ipa": "/kɑʊ˥˥/",
+      "meaning": "High or tall (symbolizing elevation and aspiration)",
+      "population": "≈1.4%",
+      "facts": [
+        "Originated from the ancient state of Qi during the Zhou Dynasty",
+        "One of the most common surnames in northern China, particularly in Shandong and Hebei"
+      ]
+    },
+    {
+      "hanzi": "林",
+      "yingwen": "Lin",
+      "ipa": "/lin˧˥/",
+      "meaning": "Forest or woods (symbolizing abundance and vitality)",
+      "population": "≈1.3%",
+      "facts": [
+        "Descendants of the ancient state of Chen during the Zhou Dynasty",
+        "Prominent in southern China, especially in Fujian and Guangdong"
+      ]
+    },
+    {
+      "hanzi": "何",
+      "yingwen": "He",
+      "ipa": "/xɤ˧˥/",
+      "meaning": "What or which (symbolizing inquiry and wisdom)",
+      "population": "≈1.2%",
+      "facts": [
+        "Originated from the ancient state of Han during the Zhou Dynasty",
+        "Widely distributed across China, with significant populations in Sichuan and Hunan"
+      ]
+    },
+    {
+      "hanzi": "郭",
+      "yingwen": "Guo",
+      "ipa": "/ku̯o˥˥/",
+      "meaning": "Outer city wall (symbolizing protection and security)",
+      "population": "≈1.1%",
+      "facts": [
+        "Originated from the ancient state of Guo during the Zhou Dynasty",
+        "Prominent in northern China, especially in Shanxi and Henan"
+      ]
+    },
+    {
+      "hanzi": "马",
+      "yingwen": "Ma",
+      "ipa": "/mɑ˨˩˦/",
+      "meaning": "Horse (symbolizing speed and endurance)",
+      "population": "≈1.0%",
+      "facts": [
+        "Descendants of the ancient state of Zhao during the Zhou Dynasty",
+        "One of the most common surnames in northern China, particularly in Henan and Shandong"
+      ]
+    },
+    {
+      "hanzi": "罗",
+      "yingwen": "Luo",
+      "ipa": "/lu̯o˧˥/",
+      "meaning": "Net or gauze (symbolizing connection and intricacy)",
+      "population": "≈0.9%",
+      "facts": [
+        "Originated from the ancient state of Luo during the Zhou Dynasty",
+        "Prominent in southern China, especially in Hunan and Hubei"
+      ]
+    },
+    {
+      "hanzi": "梁",
+      "yingwen": "Liang",
+      "ipa": "/li̯ɑŋ˧˥/",
+      "meaning": "Bridge or beam (symbolizing connection and support)",
+      "population": "≈0.8%",
+      "facts": [
+        "Descendants of the ancient state of Liang during the Zhou Dynasty",
+        "Widely distributed across China, with significant populations in Guangdong and Guangxi"
+      ]
+    },
+    {
+      "hanzi": "宋",
+      "yingwen": "Song",
+      "ipa": "/sʊŋ˥˩/",
+      "meaning": "Song dynasty (symbolizing cultural and artistic achievement)",
+      "population": "≈0.7%",
+      "facts": [
+        "Imperial surname of the Song Dynasty",
+        "Prominent in northern China, especially in Henan and Shandong"
+      ]
+    },
+    {
+      "hanzi": "郑",
+      "yingwen": "Zheng",
+      "ipa": "/ʈʂɤŋ˥˩/",
+      "meaning": "Serious or solemn (symbolizing dignity and respect)",
+      "population": "≈0.6%",
+      "facts": [
+        "Originated from the ancient state of Zheng during the Zhou Dynasty",
+        "One of the most common surnames in southern China, particularly in Fujian and Guangdong"
+      ]
+    },
+    {
+      "hanzi": "谢",
+      "yingwen": "Xie",
+      "ipa": "/ɕi̯ɛ˥˩/",
+      "meaning": "Thank or gratitude (symbolizing appreciation and respect)",
+      "population": "≈0.5%",
+      "facts": [
+        "Descendants of the ancient state of Xie during the Zhou Dynasty",
+        "Prominent in southern China, especially in Guangdong and Guangxi"
+      ]
+    },
+    {
+      "hanzi": "韩",
+      "yingwen": "Han",
+      "ipa": "/xɑn˧˥/",
+      "meaning": "Korea or Han River (symbolizing cultural exchange and connection)",
+      "population": "≈0.4%",
+      "facts": [
+        "Originated from the ancient state of Han during the Zhou Dynasty",
+        "Widely distributed across China, with significant populations in Henan and Shandong"
+      ]
+    },
+    {
+      "hanzi": "唐",
+      "yingwen": "Tang",
+      "ipa": "/tʰɑŋ˧˥/",
+      "meaning": "Tang dynasty (symbolizing prosperity and cultural flourishing)",
+      "population": "≈0.3%",
+      "facts": [
+        "Imperial surname of the Tang Dynasty",
+        "Prominent in southern China, especially in Guangdong and Guangxi"
+      ]
+    },
+    {
+      "hanzi": "冯",
+      "yingwen": "Feng",
+      "ipa": "/fɤŋ˧˥/",
+      "meaning": "Gallop or swift (symbolizing speed and agility)",
+      "population": "≈0.2%",
+      "facts": [
+        "Originated from the ancient state of Feng during the Zhou Dynasty",
+        "One of the most common surnames in northern China, particularly in Shandong and Hebei"
+      ]
+    },
+    {
+      "hanzi": "于",
+      "yingwen": "Yu",
+      "ipa": "/y˧˥/",
+      "meaning": "In or at (symbolizing presence and location)",
+      "population": "≈0.1%",
+      "facts": [
+        "Descendants of the ancient state of Yu during the Zhou Dynasty",
+        "Prominent in northern China, especially in Shandong and Henan"
+      ]
+    },
+    {
+      "hanzi": "董",
+      "yingwen": "Dong",
+      "ipa": "/tʊŋ˨˩˦/",
+      "meaning": "Supervise or direct (symbolizing leadership and authority)",
+      "population": "≈0.1%",
+      "facts": [
+        "Originated from the ancient state of Dong during the Zhou Dynasty",
+        "Widely distributed across China, with significant populations in Henan and Shandong"
+      ]
+    },
+    {
+      "hanzi": "萧",
+      "yingwen": "Xiao",
+      "ipa": "/ɕi̯ɑʊ˥˥/",
+      "meaning": "Artemisia or mugwort (symbolizing resilience and healing)",
+      "population": "≈0.1%",
+      "facts": [
+        "Descendants of the ancient state of Xiao during the Zhou Dynasty",
+        "Prominent in southern China, especially in Guangdong and Guangxi"
+      ]
+    },
+    {
+      "hanzi": "程",
+      "yingwen": "Cheng",
+      "ipa": "/ʈʂʰɤŋ˧˥/",
+      "meaning": "Journey or process (symbolizing progress and transformation)",
+      "population": "≈0.57%",
+      "facts": [
+        "Descendants of Cheng Yi, a prominent Neo-Confucian philosopher during the Song Dynasty",
+        "Many Cheng families migrated to Taiwan during the Qing Dynasty, forming a significant community there"
+      ]
+    },
+    {
+      "hanzi": "曹",
+      "yingwen": "Cao",
+      "ipa": "/tsʰɑʊ˧˥/",
+      "meaning": "Cao (a type of grass, symbolizing resilience and adaptability)",
+      "population": "≈0.59%",
+      "facts": [
+        "Cao Cao, a famous warlord and poet during the Three Kingdoms period, is one of the most well-known bearers of this surname",
+        "The Cao family played a significant role in the political landscape of the Wei Kingdom"
+      ]
+    },
+    {
+      "hanzi": "袁",
+      "yingwen": "Yuan",
+      "ipa": "/ɥɛn˧˥/",
+      "meaning": "Long robe (symbolizing dignity and authority)",
+      "population": "≈0.54%",
+      "facts": [
+        "Yuan Shikai, a prominent military leader and politician, declared himself Emperor of China in 1915",
+        "The Yuan family has a strong presence in Henan province, where they have been influential for centuries"
+      ]
+    },
+    {
+      "hanzi": "邓",
+      "yingwen": "Deng",
+      "ipa": "/tɤŋ˥˩/",
+      "meaning": "Deng (a type of ancient vessel, symbolizing stability and support)",
+      "population": "≈0.52%",
+      "facts": [
+        "Deng Xiaoping, the paramount leader of China, initiated economic reforms that transformed China's economy",
+        "The Deng family has a significant presence in Sichuan province, where they have been influential for generations"
+      ]
+    },
+    {
+      "hanzi": "许",
+      "yingwen": "Xu",
+      "ipa": "/ɕy˨˩˦/",
+      "meaning": "Allow or permit (symbolizing openness and acceptance)",
+      "population": "≈0.51%",
+      "facts": [
+        "Xu Shen, the author of the first Chinese dictionary 'Shuowen Jiezi', is one of the most famous bearers of this surname",
+        "The Xu family has a strong presence in Jiangsu province, where they have been influential for centuries"
+      ]
+    },
+    {
+      "hanzi": "傅",
+      "yingwen": "Fu",
+      "ipa": "/fu˥˩/",
+      "meaning": "Teacher or mentor (symbolizing wisdom and guidance)",
+      "population": "≈0.50%",
+      "facts": [
+        "Fu Xi, a mythical emperor and cultural hero, is considered one of the earliest bearers of this surname",
+        "The Fu family has a significant presence in Shandong province, where they have been influential for generations"
+      ]
+    },
+    {
+      "hanzi": "沈",
+      "yingwen": "Shen",
+      "ipa": "/ʂən˥˥/",
+      "meaning": "Sink or immerse (symbolizing depth and introspection)",
+      "population": "≈0.49%",
+      "facts": [
+        "Shen Kuo, a polymathic scientist and statesman of the Song Dynasty, is one of the most famous bearers of this surname",
+        "The Shen family has a strong presence in Zhejiang province, where they have been influential for centuries"
+      ]
+    },
+    {
+      "hanzi": "曾",
+      "yingwen": "Zeng",
+      "ipa": "/tsɤŋ˥˥/",
+      "meaning": "Once or formerly (symbolizing continuity and legacy)",
+      "population": "≈0.48%",
+      "facts": [
+        "Zeng Guofan, a prominent statesman and military leader during the Qing Dynasty, is one of the most famous bearers of this surname",
+        "The Zeng family has a significant presence in Hunan province, where they have been influential for generations"
+      ]
+    },
+    {
+      "hanzi": "彭",
+      "yingwen": "Peng",
+      "ipa": "/pʰɤŋ˧˥/",
+      "meaning": "Peng (a type of drum, symbolizing rhythm and harmony)",
+      "population": "≈0.47%",
+      "facts": [
+        "Peng Dehuai, a prominent military leader and politician, played a key role in the Chinese Communist Party",
+        "The Peng family has a strong presence in Jiangxi province, where they have been influential for centuries"
+      ]
+    },
+    {
+      "hanzi": "吕",
+      "yingwen": "Lü",
+      "ipa": "/ly˨˩˦/",
+      "meaning": "Lü (a type of musical note, symbolizing harmony and balance)",
+      "population": "≈0.46%",
+      "facts": [
+        "Lü Bu, a famous warrior during the Three Kingdoms period, is one of the most well-known bearers of this surname",
+        "The Lü family has a significant presence in Shandong province, where they have been influential for generations"
+      ]
+    },
+    {
+      "hanzi": "苏",
+      "yingwen": "Su",
+      "ipa": "/su˥˥/",
+      "meaning": "Revive or awaken (symbolizing renewal and vitality)",
+      "population": "≈0.45%",
+      "facts": [
+        "Su Shi, a renowned poet, painter, and statesman of the Song Dynasty, is one of the most famous bearers of this surname",
+        "The Su family has a strong presence in Jiangsu province, where they have been influential for centuries"
+      ]
+    },
+    {
+      "hanzi": "卢",
+      "yingwen": "Lu",
+      "ipa": "/lu˧˥/",
+      "meaning": "Lu (a type of reed, symbolizing flexibility and resilience)",
+      "population": "≈0.44%",
+      "facts": [
+        "Lu Xun, a leading figure in modern Chinese literature, is one of the most famous bearers of this surname",
+        "The Lu family has a significant presence in Zhejiang province, where they have been influential for generations"
+      ]
+    },
+    {
+      "hanzi": "蒋",
+      "yingwen": "Jiang",
+      "ipa": "/tɕjɑŋ˥˥/",
+      "meaning": "Jiang (a type of ginger, symbolizing warmth and vitality)",
+      "population": "≈0.43%",
+      "facts": [
+        "Chiang Kai-shek, a political and military leader, played a central role in 20th-century Chinese history",
+        "The Jiang family has a strong presence in Zhejiang province, where they have been influential for centuries"
+      ]
+    },
+    {
+      "hanzi": "蔡",
+      "yingwen": "Cai",
+      "ipa": "/tsʰaɪ˥˩/",
+      "meaning": "Cai (a type of vegetable, symbolizing nourishment and growth)",
+      "population": "≈0.42%",
+      "facts": [
+        "Cai Lun, the inventor of paper, is one of the most famous bearers of this surname",
+        "The Cai family has a significant presence in Fujian province, where they have been influential for generations"
+      ]
+    },
+    {
+      "hanzi": "贾",
+      "yingwen": "Jia",
+      "ipa": "/tɕja˨˩˦/",
+      "meaning": "Jia (a type of price, symbolizing value and worth)",
+      "population": "≈0.41%",
+      "facts": [
+        "Jia Yi, a prominent statesman and poet during the Han Dynasty, is one of the most famous bearers of this surname",
+        "The Jia family has a strong presence in Shanxi province, where they have been influential for centuries"
+      ]
+    },
+    {
+      "hanzi": "丁",
+      "yingwen": "Ding",
+      "ipa": "/tiŋ˥˥/",
+      "meaning": "Nail or spike (symbolizing strength and determination)",
+      "population": "≈0.40%",
+      "facts": [
+        "Ding Ruchang, a naval officer during the Qing Dynasty, is one of the most famous bearers of this surname",
+        "The Ding family has a significant presence in Shandong province, where they have been influential for generations"
+      ]
+    },
+    {
+      "hanzi": "魏",
+      "yingwen": "Wei",
+      "ipa": "/weɪ˥˩/",
+      "meaning": "Wei (a type of tower, symbolizing height and ambition)",
+      "population": "≈0.39%",
+      "facts": [
+        "Wei Zheng, a prominent statesman and historian during the Tang Dynasty, is one of the most famous bearers of this surname",
+        "The Wei family has a strong presence in Hebei province, where they have been influential for centuries"
+      ]
+    },
+    {
+      "hanzi": "薛",
+      "yingwen": "Xue",
+      "ipa": "/ɕɥɛ˥˥/",
+      "meaning": "Xue (a type of snow, symbolizing purity and clarity)",
+      "population": "≈0.38%",
+      "facts": [
+        "Xue Tao, a renowned poet during the Tang Dynasty, is one of the most famous bearers of this surname",
+        "The Xue family has a significant presence in Shanxi province, where they have been influential for generations"
+      ]
+    },
+    {
+      "hanzi": "叶",
+      "yingwen": "Ye",
+      "ipa": "/jɛ˥˩/",
+      "meaning": "Leaf (symbolizing growth and renewal)",
+      "population": "≈0.37%",
+      "facts": [
+        "Ye Shengtao, a prominent educator and writer, is one of the most famous bearers of this surname",
+        "The Ye family has a strong presence in Zhejiang province, where they have been influential for centuries"
+      ]
+    },
+    {
+      "hanzi": "阎",
+      "yingwen": "Yan",
+      "ipa": "/jɛn˧˥/",
+      "meaning": "Yan (a type of gate, symbolizing protection and security)",
+      "population": "≈0.36%",
+      "facts": [
+        "Yan Zhenqing, a famous calligrapher during the Tang Dynasty, is one of the most famous bearers of this surname",
+        "The Yan family has a significant presence in Shanxi province, where they have been influential for generations"
+      ]
+    },
+    {
+      "hanzi": "余",
+      "yingwen": "Yu",
+      "ipa": "/y˧˥/",
+      "meaning": "Surplus or abundance (symbolizing prosperity and wealth)",
+      "population": "≈0.35%",
+      "facts": [
+        "Yu the Great, a legendary ruler and founder of the Xia Dynasty, is one of the most famous bearers of this surname",
+        "The Yu family has a strong presence in Zhejiang province, where they have been influential for centuries"
+      ]
+    },
+    {
+      "hanzi": "潘",
+      "yingwen": "Pan",
+      "ipa": "/pʰan˥˥/",
+      "meaning": "Pan (a type of water plant, symbolizing adaptability and resilience)",
+      "population": "≈0.34%",
+      "facts": [
+        "Pan Yue, a famous poet during the Western Jin Dynasty, is one of the most famous bearers of this surname",
+        "The Pan family has a significant presence in Guangdong province, where they have been influential for generations"
+      ]
+    },
+    {
+      "hanzi": "杜",
+      "yingwen": "Du",
+      "ipa": "/tu˥˩/",
+      "meaning": "Du (a type of birch tree, symbolizing strength and endurance)",
+      "population": "≈0.33%",
+      "facts": [
+        "Du Fu, one of the greatest poets in Chinese history, is one of the most famous bearers of this surname",
+        "The Du family has a strong presence in Shaanxi province, where they have been influential for centuries"
+      ]
+    },
+    {
+      "hanzi": "戴",
+      "yingwen": "Dai",
+      "ipa": "/taɪ˥˩/",
+      "meaning": "Wear or carry (symbolizing responsibility and duty)",
+      "population": "≈0.32%",
+      "facts": [
+        "Dai Zhen, a prominent philosopher and scholar during the Qing Dynasty, is one of the most famous bearers of this surname",
+        "The Dai family has a significant presence in Anhui province, where they have been influential for generations"
+      ]
+    },
+    {
+      "hanzi": "夏",
+      "yingwen": "Xia",
+      "ipa": "/ɕja˥˩/",
+      "meaning": "Summer (symbolizing warmth and growth)",
+      "population": "≈0.31%",
+      "facts": [
+        "Xia Yu, the legendary founder of the Xia Dynasty, is one of the most famous bearers of this surname",
+        "The Xia family has a strong presence in Henan province, where they have been influential for centuries"
+      ]
+    },
+    {
+      "hanzi": "钟",
+      "yingwen": "Zhong",
+      "ipa": "/ʈʂʊŋ˥˥/",
+      "meaning": "Bell (symbolizing harmony and unity)",
+      "population": "≈0.30%",
+      "facts": [
+        "Zhong Yao, a famous calligrapher during the Three Kingdoms period, is one of the most famous bearers of this surname",
+        "The Zhong family has a significant presence in Jiangxi province, where they have been influential for generations"
+      ]
+    },
+    {
+      "hanzi": "汪",
+      "yingwen": "Wang",
+      "ipa": "/wɑŋ˥˥/",
+      "meaning": "Wang (a type of water, symbolizing fluidity and adaptability)",
+      "population": "≈0.29%",
+      "facts": [
+        "Wang Anshi, a famous statesman and economist during the Song Dynasty, is one of the most famous bearers of this surname",
+        "The Wang family has a strong presence in Anhui province, where they have been influential for centuries"
+      ]
+    },
+    {
+      "hanzi": "田",
+      "yingwen": "Tian",
+      "ipa": "/tjɛn˧˥/",
+      "meaning": "Field (symbolizing fertility and abundance)",
+      "population": "≈0.28%",
+      "facts": [
+        "Tian Ji, a famous military strategist during the Warring States period, is one of the most famous bearers of this surname",
+        "The Tian family has a significant presence in Hebei province, where they have been influential for generations"
+      ]
+    },
+    {
+      "hanzi": "任",
+      "yingwen": "Ren",
+      "ipa": "/ʐən˧˥/",
+      "meaning": "Appoint or assign (symbolizing responsibility and trust)",
+      "population": "≈0.27%",
+      "facts": [
+        "Ren Zhengfei, the founder of Huawei, is one of the most famous bearers of this surname",
+        "The Ren family has a strong presence in Shandong province, where they have been influential for centuries"
+      ]
+    },
+    {
+      "hanzi": "姜",
+      "yingwen": "Jiang",
+      "ipa": "/tɕjɑŋ˥˥/",
+      "meaning": "Ginger (symbolizing warmth and vitality)",
+      "population": "≈0.26%",
+      "facts": [
+        "Jiang Ziya, a legendary military strategist and statesman, is one of the most famous bearers of this surname",
+        "The Jiang family has a significant presence in Shandong province, where they have been influential for generations"
+      ]
+    },
+    {
+      "hanzi": "范",
+      "yingwen": "Fan",
+      "ipa": "/fan˥˩/",
+      "meaning": "Model or pattern (symbolizing exemplary behavior)",
+      "population": "≈0.33%",
+      "facts": [
+        "Descendants of Fan Li, a legendary strategist and businessman from the Spring and Autumn period",
+        "Prominent in Henan and Shandong provinces, with significant diaspora in Southeast Asia"
+      ]
+    },
+    {
+      "hanzi": "方",
+      "yingwen": "Fang",
+      "ipa": "/fɑŋ˥˥/",
+      "meaning": "Square or direction (symbolizing stability and order)",
+      "population": "≈0.45%",
+      "facts": [
+        "Originated from the Fang State during the Zhou Dynasty",
+        "Widely distributed in Fujian and Guangdong, with notable presence in Taiwan"
+      ]
+    },
+    {
+      "hanzi": "石",
+      "yingwen": "Shi",
+      "ipa": "/ʂʅ˧˥/",
+      "meaning": "Stone (symbolizing strength and durability)",
+      "population": "≈0.38%",
+      "facts": [
+        "Descendants of Shi Hui, a prominent official during the Spring and Autumn period",
+        "Concentrated in Hebei and Shandong, with a significant diaspora in Korea"
+      ]
+    },
+    {
+      "hanzi": "姚",
+      "yingwen": "Yao",
+      "ipa": "/jɑʊ˧˥/",
+      "meaning": "Elegant or graceful (symbolizing beauty and refinement)",
+      "population": "≈0.35%",
+      "facts": [
+        "One of the oldest Chinese surnames, dating back to the legendary Emperor Shun",
+        "Prominent in Zhejiang and Jiangsu, with a notable presence in Vietnam"
+      ]
+    },
+    {
+      "hanzi": "谭",
+      "yingwen": "Tan",
+      "ipa": "/tʰan˧˥/",
+      "meaning": "Deep pool (symbolizing depth and mystery)",
+      "population": "≈0.32%",
+      "facts": [
+        "Originated from the Tan State during the Zhou Dynasty",
+        "Widely distributed in Hunan and Guangdong, with significant diaspora in Malaysia"
+      ]
+    },
+    {
+      "hanzi": "廖",
+      "yingwen": "Liao",
+      "ipa": "/ljɑʊ˥˩/",
+      "meaning": "Vast or extensive (symbolizing breadth and expansiveness)",
+      "population": "≈0.29%",
+      "facts": [
+        "Descendants of Liao Zhai, a noble family during the Han Dynasty",
+        "Concentrated in Fujian and Jiangxi, with a notable presence in Taiwan"
+      ]
+    },
+    {
+      "hanzi": "邹",
+      "yingwen": "Zou",
+      "ipa": "/tsoʊ˥˥/",
+      "meaning": "Corner or nook (symbolizing uniqueness and individuality)",
+      "population": "≈0.28%",
+      "facts": [
+        "Originated from the Zou State during the Zhou Dynasty",
+        "Prominent in Shandong and Hubei, with significant diaspora in Korea"
+      ]
+    },
+    {
+      "hanzi": "熊",
+      "yingwen": "Xiong",
+      "ipa": "/ɕjʊŋ˧˥/",
+      "meaning": "Bear (symbolizing strength and courage)",
+      "population": "≈0.27%",
+      "facts": [
+        "Descendants of Xiong Yi, a noble family during the Zhou Dynasty",
+        "Widely distributed in Hubei and Hunan, with a notable presence in Vietnam"
+      ]
+    },
+    {
+      "hanzi": "金",
+      "yingwen": "Jin",
+      "ipa": "/tɕin˥˥/",
+      "meaning": "Gold (symbolizing wealth and prosperity)",
+      "population": "≈0.26%",
+      "facts": [
+        "Originated from the Jin State during the Zhou Dynasty",
+        "Concentrated in Zhejiang and Jiangsu, with significant diaspora in Korea"
+      ]
+    },
+    {
+      "hanzi": "陆",
+      "yingwen": "Lu",
+      "ipa": "/lu˥˩/",
+      "meaning": "Land or continent (symbolizing stability and foundation)",
+      "population": "≈0.25%",
+      "facts": [
+        "Descendants of Lu Buwei, a prominent politician during the Qin Dynasty",
+        "Prominent in Jiangsu and Zhejiang, with a notable presence in Taiwan"
+      ]
+    },
+    {
+      "hanzi": "郝",
+      "yingwen": "Hao",
+      "ipa": "/xɑʊ˧˥/",
+      "meaning": "Goodness or virtue (symbolizing moral excellence)",
+      "population": "≈0.24%",
+      "facts": [
+        "Originated from the Hao State during the Zhou Dynasty",
+        "Widely distributed in Shanxi and Hebei, with significant diaspora in Vietnam"
+      ]
+    },
+    {
+      "hanzi": "孔",
+      "yingwen": "Kong",
+      "ipa": "/kʰʊŋ˧˥/",
+      "meaning": "Hole or opening (symbolizing wisdom and insight)",
+      "population": "≈0.23%",
+      "facts": [
+        "Descendants of Confucius, the great philosopher and teacher",
+        "Concentrated in Shandong, with a notable presence in Korea and Japan"
+      ]
+    },
+    {
+      "hanzi": "白",
+      "yingwen": "Bai",
+      "ipa": "/paɪ˧˥/",
+      "meaning": "White (symbolizing purity and clarity)",
+      "population": "≈0.22%",
+      "facts": [
+        "Originated from the Bai State during the Zhou Dynasty",
+        "Prominent in Henan and Shaanxi, with significant diaspora in Korea"
+      ]
+    },
+    {
+      "hanzi": "崔",
+      "yingwen": "Cui",
+      "ipa": "/tsʰweɪ˧˥/",
+      "meaning": "High or lofty (symbolizing ambition and aspiration)",
+      "population": "≈0.21%",
+      "facts": [
+        "Descendants of Cui Hao, a prominent official during the Northern Wei Dynasty",
+        "Widely distributed in Hebei and Shandong, with a notable presence in Korea"
+      ]
+    },
+    {
+      "hanzi": "康",
+      "yingwen": "Kang",
+      "ipa": "/kʰɑŋ˥˥/",
+      "meaning": "Health or peace (symbolizing well-being and harmony)",
+      "population": "≈0.20%",
+      "facts": [
+        "Originated from the Kang State during the Zhou Dynasty",
+        "Concentrated in Henan and Shaanxi, with significant diaspora in Vietnam"
+      ]
+    },
+    {
+      "hanzi": "毛",
+      "yingwen": "Mao",
+      "ipa": "/mɑʊ˧˥/",
+      "meaning": "Hair or feather (symbolizing delicacy and lightness)",
+      "population": "≈0.19%",
+      "facts": [
+        "Descendants of Mao Zedong, the founding father of the People's Republic of China",
+        "Prominent in Hunan and Zhejiang, with a notable presence in Taiwan"
+      ]
+    },
+    {
+      "hanzi": "邱",
+      "yingwen": "Qiu",
+      "ipa": "/tɕʰjoʊ˥˥/",
+      "meaning": "Hill or mound (symbolizing stability and elevation)",
+      "population": "≈0.18%",
+      "facts": [
+        "Originated from the Qiu State during the Zhou Dynasty",
+        "Widely distributed in Fujian and Guangdong, with significant diaspora in Malaysia"
+      ]
+    },
+    {
+      "hanzi": "秦",
+      "yingwen": "Qin",
+      "ipa": "/tɕʰin˧˥/",
+      "meaning": "Qin State (symbolizing unity and strength)",
+      "population": "≈0.17%",
+      "facts": [
+        "Descendants of Qin Shi Huang, the first emperor of China",
+        "Concentrated in Shaanxi and Gansu, with a notable presence in Korea"
+      ]
+    },
+    {
+      "hanzi": "江",
+      "yingwen": "Jiang",
+      "ipa": "/tɕjɑŋ˥˥/",
+      "meaning": "River (symbolizing flow and adaptability)",
+      "population": "≈0.16%",
+      "facts": [
+        "Originated from the Jiang State during the Zhou Dynasty",
+        "Prominent in Jiangsu and Zhejiang, with significant diaspora in Vietnam"
+      ]
+    },
+    {
+      "hanzi": "史",
+      "yingwen": "Shi",
+      "ipa": "/ʂʅ˧˥/",
+      "meaning": "History (symbolizing knowledge and wisdom)",
+      "population": "≈0.15%",
+      "facts": [
+        "Descendants of Shi Dan, a prominent historian during the Han Dynasty",
+        "Widely distributed in Henan and Shandong, with a notable presence in Korea"
+      ]
+    },
+    {
+      "hanzi": "顾",
+      "yingwen": "Gu",
+      "ipa": "/ku˥˩/",
+      "meaning": "To care for (symbolizing compassion and responsibility)",
+      "population": "≈0.14%",
+      "facts": [
+        "Originated from the Gu State during the Zhou Dynasty",
+        "Concentrated in Jiangsu and Zhejiang, with significant diaspora in Taiwan"
+      ]
+    },
+    {
+      "hanzi": "侯",
+      "yingwen": "Hou",
+      "ipa": "/xoʊ˧˥/",
+      "meaning": "Marquis (symbolizing nobility and honor)",
+      "population": "≈0.13%",
+      "facts": [
+        "Descendants of Hou Tu, a prominent official during the Zhou Dynasty",
+        "Prominent in Shandong and Henan, with a notable presence in Korea"
+      ]
+    },
+    {
+      "hanzi": "邵",
+      "yingwen": "Shao",
+      "ipa": "/ʂɑʊ˥˩/",
+      "meaning": "To summon or call (symbolizing leadership and authority)",
+      "population": "≈0.12%",
+      "facts": [
+        "Originated from the Shao State during the Zhou Dynasty",
+        "Widely distributed in Henan and Shandong, with significant diaspora in Vietnam"
+      ]
+    },
+    {
+      "hanzi": "孟",
+      "yingwen": "Meng",
+      "ipa": "/mɤŋ˥˩/",
+      "meaning": "Eldest or first (symbolizing precedence and importance)",
+      "population": "≈0.11%",
+      "facts": [
+        "Descendants of Meng Ke (Mencius), the great Confucian philosopher",
+        "Concentrated in Shandong and Henan, with a notable presence in Korea"
+      ]
+    },
+    {
+      "hanzi": "龙",
+      "yingwen": "Long",
+      "ipa": "/lʊŋ˧˥/",
+      "meaning": "Dragon (symbolizing power and good fortune)",
+      "population": "≈0.10%",
+      "facts": [
+        "Originated from the Long State during the Zhou Dynasty",
+        "Prominent in Hunan and Guangdong, with significant diaspora in Vietnam"
+      ]
+    },
+    {
+      "hanzi": "万",
+      "yingwen": "Wan",
+      "ipa": "/wan˥˩/",
+      "meaning": "Ten thousand (symbolizing abundance and prosperity)",
+      "population": "≈0.09%",
+      "facts": [
+        "Descendants of Wan Zhang, a prominent scholar during the Han Dynasty",
+        "Widely distributed in Henan and Shandong, with a notable presence in Korea"
+      ]
+    },
+    {
+      "hanzi": "段",
+      "yingwen": "Duan",
+      "ipa": "/twan˥˩/",
+      "meaning": "Segment or section (symbolizing division and organization)",
+      "population": "≈0.08%",
+      "facts": [
+        "Originated from the Duan State during the Zhou Dynasty",
+        "Concentrated in Hebei and Shandong, with significant diaspora in Vietnam"
+      ]
+    },
+    {
+      "hanzi": "漕",
+      "yingwen": "Cao",
+      "ipa": "/tsʰɑʊ˧˥/",
+      "meaning": "Canal or waterway (symbolizing flow and connectivity)",
+      "population": "≈0.07%",
+      "facts": [
+        "Descendants of Cao Cao, a prominent warlord during the Three Kingdoms period",
+        "Prominent in Anhui and Jiangsu, with a notable presence in Taiwan"
+      ]
+    },
+    {
+      "hanzi": "钱",
+      "yingwen": "Qian",
+      "ipa": "/tɕʰjɛn˧˥/",
+      "meaning": "Money or wealth (symbolizing prosperity and success)",
+      "population": "≈0.06%",
+      "facts": [
+        "Originated from the Qian State during the Zhou Dynasty",
+        "Widely distributed in Zhejiang and Jiangsu, with significant diaspora in Korea"
+      ]
+    },
+    {
+      "hanzi": "汤",
+      "yingwen": "Tang",
+      "ipa": "/tʰɑŋ˥˥/",
+      "meaning": "Soup or broth (symbolizing nourishment and sustenance)",
+      "population": "≈0.05%",
+      "facts": [
+        "Descendants of Tang of Shang, the founder of the Shang Dynasty",
+        "Concentrated in Henan and Shandong, with a notable presence in Vietnam"
+      ]
+    },
+    {
+      "hanzi": "尹",
+      "yingwen": "Yin",
+      "ipa": "/jin˨˩˦/",
+      "meaning": "Governor or overseer (symbolizing authority and leadership)",
+      "population": "≈0.15%",
+      "facts": [
+        "Descendants of Yin Xi, the legendary guardian of the Hangu Pass who met Laozi",
+        "Prominent in the Spring and Autumn period, with many serving as high-ranking officials"
+      ]
+    },
+    {
+      "hanzi": "黎",
+      "yingwen": "Li",
+      "ipa": "/li˧˥/",
+      "meaning": "Black or dawn (symbolizing new beginnings and resilience)",
+      "population": "≈0.12%",
+      "facts": [
+        "Originated from the ancient Li tribe, which was influential during the Zhou Dynasty",
+        "Many Li families migrated to Vietnam during the Tang Dynasty, influencing Vietnamese culture"
+      ]
+    },
+    {
+      "hanzi": "易",
+      "yingwen": "Yi",
+      "ipa": "/i˥˩/",
+      "meaning": "Change or exchange (symbolizing adaptability and transformation)",
+      "population": "≈0.1%",
+      "facts": [
+        "Descendants of Yi Yin, a famous minister and philosopher during the Shang Dynasty",
+        "The surname is particularly common in Hunan and Hubei provinces"
+      ]
+    },
+    {
+      "hanzi": "常",
+      "yingwen": "Chang",
+      "ipa": "/ʈʂʰɑŋ˧˥/",
+      "meaning": "Constant or eternal (symbolizing steadfastness and reliability)",
+      "population": "≈0.2%",
+      "facts": [
+        "Originated from the descendants of the Yellow Emperor",
+        "Many Chang families migrated to Korea during the Tang Dynasty, influencing Korean surnames"
+      ]
+    },
+    {
+      "hanzi": "武",
+      "yingwen": "Wu",
+      "ipa": "/u˨˩˦/",
+      "meaning": "Martial or military (symbolizing strength and bravery)",
+      "population": "≈0.3%",
+      "facts": [
+        "Descendants of Wu Zetian, the only female emperor in Chinese history",
+        "The surname is particularly common in Henan and Shandong provinces"
+      ]
+    },
+    {
+      "hanzi": "乔",
+      "yingwen": "Qiao",
+      "ipa": "/tɕʰjɑʊ˧˥/",
+      "meaning": "Tall or lofty (symbolizing ambition and high aspirations)",
+      "population": "≈0.1%",
+      "facts": [
+        "Originated from the descendants of the Yellow Emperor",
+        "Many Qiao families migrated to Taiwan during the Qing Dynasty"
+      ]
+    },
+    {
+      "hanzi": "贺",
+      "yingwen": "He",
+      "ipa": "/xɤ˥˩/",
+      "meaning": "Congratulate or celebrate (symbolizing joy and festivity)",
+      "population": "≈0.15%",
+      "facts": [
+        "Descendants of He Jin, a powerful general during the Eastern Han Dynasty",
+        "The surname is particularly common in Hunan and Jiangxi provinces"
+      ]
+    },
+    {
+      "hanzi": "赖",
+      "yingwen": "Lai",
+      "ipa": "/laɪ˥˩/",
+      "meaning": "Depend or rely (symbolizing trust and reliability)",
+      "population": "≈0.1%",
+      "facts": [
+        "Originated from the ancient Lai tribe, which was influential during the Zhou Dynasty",
+        "Many Lai families migrated to Southeast Asia during the Qing Dynasty"
+      ]
+    },
+    {
+      "hanzi": "龚",
+      "yingwen": "Gong",
+      "ipa": "/kʊŋ˥˥/",
+      "meaning": "Respect or reverence (symbolizing honor and dignity)",
+      "population": "≈0.1%",
+      "facts": [
+        "Descendants of Gong Sui, a famous official during the Han Dynasty",
+        "The surname is particularly common in Fujian and Guangdong provinces"
+      ]
+    },
+    {
+      "hanzi": "文",
+      "yingwen": "Wen",
+      "ipa": "/wən˧˥/",
+      "meaning": "Literature or culture (symbolizing wisdom and knowledge)",
+      "population": "≈0.2%",
+      "facts": [
+        "Descendants of Wen Tianxiang, a national hero during the Song Dynasty",
+        "Many Wen families migrated to Taiwan during the Qing Dynasty"
+      ]
+    },
+    {
+      "hanzi": "庞",
+      "yingwen": "Pang",
+      "ipa": "/pʰɑŋ˧˥/",
+      "meaning": "Vast or immense (symbolizing grandeur and expansiveness)",
+      "population": "≈0.1%",
+      "facts": [
+        "Originated from the descendants of the Yellow Emperor",
+        "The surname is particularly common in Hebei and Shandong provinces"
+      ]
+    },
+    {
+      "hanzi": "樊",
+      "yingwen": "Fan",
+      "ipa": "/fän˧˥/",
+      "meaning": "Fence or hedge (symbolizing protection and boundaries)",
+      "population": "≈0.1%",
+      "facts": [
+        "Descendants of Fan Li, a famous businessman and politician during the Spring and Autumn period",
+        "Many Fan families migrated to Vietnam during the Tang Dynasty"
+      ]
+    },
+    {
+      "hanzi": "兰",
+      "yingwen": "Lan",
+      "ipa": "/län˧˥/",
+      "meaning": "Orchid (symbolizing elegance and refinement)",
+      "population": "≈0.1%",
+      "facts": [
+        "Originated from the ancient Lan tribe, which was influential during the Zhou Dynasty",
+        "The surname is particularly common in Fujian and Guangdong provinces"
+      ]
+    },
+    {
+      "hanzi": "殷",
+      "yingwen": "Yin",
+      "ipa": "/jin˥˥/",
+      "meaning": "Abundant or prosperous (symbolizing wealth and prosperity)",
+      "population": "≈0.1%",
+      "facts": [
+        "Descendants of the Yin Dynasty, also known as the Shang Dynasty",
+        "Many Yin families migrated to Korea during the Tang Dynasty"
+      ]
+    },
+    {
+      "hanzi": "施",
+      "yingwen": "Shi",
+      "ipa": "/ʂʐ̩˥˥/",
+      "meaning": "Bestow or grant (symbolizing generosity and benevolence)",
+      "population": "≈0.1%",
+      "facts": [
+        "Descendants of Shi Ji, a famous historian during the Han Dynasty",
+        "The surname is particularly common in Jiangsu and Zhejiang provinces"
+      ]
+    },
+    {
+      "hanzi": "陶",
+      "yingwen": "Tao",
+      "ipa": "/tʰɑʊ˧˥/",
+      "meaning": "Pottery or ceramics (symbolizing creativity and craftsmanship)",
+      "population": "≈0.1%",
+      "facts": [
+        "Descendants of Tao Yuanming, a famous poet during the Jin Dynasty",
+        "Many Tao families migrated to Taiwan during the Qing Dynasty"
+      ]
+    },
+    {
+      "hanzi": "洪",
+      "yingwen": "Hong",
+      "ipa": "/xʊŋ˧˥/",
+      "meaning": "Flood or deluge (symbolizing power and force)",
+      "population": "≈0.1%",
+      "facts": [
+        "Descendants of Hong Xiuquan, the leader of the Taiping Rebellion",
+        "The surname is particularly common in Fujian and Guangdong provinces"
+      ]
+    },
+    {
+      "hanzi": "翟",
+      "yingwen": "Zhai",
+      "ipa": "/ʈʂaɪ˥˥/",
+      "meaning": "Pheasant (symbolizing beauty and grace)",
+      "population": "≈0.1%",
+      "facts": [
+        "Originated from the ancient Zhai tribe, which was influential during the Zhou Dynasty",
+        "Many Zhai families migrated to Korea during the Tang Dynasty"
+      ]
+    },
+    {
+      "hanzi": "安",
+      "yingwen": "An",
+      "ipa": "/än˥˥/",
+      "meaning": "Peace or safety (symbolizing tranquility and security)",
+      "population": "≈0.1%",
+      "facts": [
+        "Descendants of An Lushan, a famous general during the Tang Dynasty",
+        "The surname is particularly common in Henan and Shandong provinces"
+      ]
+    },
+    {
+      "hanzi": "颜",
+      "yingwen": "Yan",
+      "ipa": "/jɛn˧˥/",
+      "meaning": "Face or countenance (symbolizing dignity and honor)",
+      "population": "≈0.1%",
+      "facts": [
+        "Descendants of Yan Hui, a famous disciple of Confucius",
+        "Many Yan families migrated to Southeast Asia during the Qing Dynasty"
+      ]
+    },
+    {
+      "hanzi": "倪",
+      "yingwen": "Ni",
+      "ipa": "/ni˧˥/",
+      "meaning": "Small or delicate (symbolizing humility and modesty)",
+      "population": "≈0.1%",
+      "facts": [
+        "Originated from the ancient Ni tribe, which was influential during the Zhou Dynasty",
+        "The surname is particularly common in Jiangsu and Zhejiang provinces"
+      ]
+    },
+    {
+      "hanzi": "严",
+      "yingwen": "Yan",
+      "ipa": "/jɛn˧˥/",
+      "meaning": "Strict or severe (symbolizing discipline and rigor)",
+      "population": "≈0.1%",
+      "facts": [
+        "Descendants of Yan Zhenqing, a famous calligrapher during the Tang Dynasty",
+        "Many Yan families migrated to Taiwan during the Qing Dynasty"
+      ]
+    },
+    {
+      "hanzi": "牛",
+      "yingwen": "Niu",
+      "ipa": "/njoʊ˧˥/",
+      "meaning": "Ox or cow (symbolizing strength and diligence)",
+      "population": "≈0.1%",
+      "facts": [
+        "Originated from the ancient Niu tribe, which was influential during the Zhou Dynasty",
+        "The surname is particularly common in Henan and Shandong provinces"
+      ]
+    },
+    {
+      "hanzi": "温",
+      "yingwen": "Wen",
+      "ipa": "/wən˥˥/",
+      "meaning": "Warm or mild (symbolizing kindness and gentleness)",
+      "population": "≈0.1%",
+      "facts": [
+        "Descendants of Wen Tianxiang, a national hero during the Song Dynasty",
+        "Many Wen families migrated to Taiwan during the Qing Dynasty"
+      ]
+    },
+    {
+      "hanzi": "芦",
+      "yingwen": "Lu",
+      "ipa": "/lu˧˥/",
+      "meaning": "Reed or rush (symbolizing flexibility and resilience)",
+      "population": "≈0.1%",
+      "facts": [
+        "Originated from the ancient Lu tribe, which was influential during the Zhou Dynasty",
+        "The surname is particularly common in Hebei and Shandong provinces"
+      ]
+    },
+    {
+      "hanzi": "季",
+      "yingwen": "Ji",
+      "ipa": "/tɕi˥˩/",
+      "meaning": "Season or period (symbolizing change and cycles)",
+      "population": "≈0.1%",
+      "facts": [
+        "Descendants of Ji Chang, a famous ruler during the Zhou Dynasty",
+        "Many Ji families migrated to Korea during the Tang Dynasty"
+      ]
+    },
+    {
+      "hanzi": "俞",
+      "yingwen": "Yu",
+      "ipa": "/y˧˥/",
+      "meaning": "Consent or agree (symbolizing harmony and agreement)",
+      "population": "≈0.1%",
+      "facts": [
+        "Descendants of Yu the Great, a legendary ruler who controlled the floods",
+        "The surname is particularly common in Jiangsu and Zhejiang provinces"
+      ]
+    },
+    {
+      "hanzi": "章",
+      "yingwen": "Zhang",
+      "ipa": "/ʈʂɑŋ˥˥/",
+      "meaning": "Chapter or section (symbolizing order and structure)",
+      "population": "≈0.2%",
+      "facts": [
+        "Descendants of Zhang Liang, a famous strategist during the Han Dynasty",
+        "Many Zhang families migrated to Taiwan during the Qing Dynasty"
+      ]
+    },
+    {
+      "hanzi": "鲁",
+      "yingwen": "Lu",
+      "ipa": "/lu˨˩˦/",
+      "meaning": "Stupid or blunt (symbolizing honesty and straightforwardness)",
+      "population": "≈0.1%",
+      "facts": [
+        "Originated from the ancient Lu state, which was influential during the Zhou Dynasty",
+        "The surname is particularly common in Shandong province"
+      ]
+    },
+    {
+      "hanzi": "葛",
+      "yingwen": "Ge",
+      "ipa": "/kɤ˧˥/",
+      "meaning": "Kudzu vine (symbolizing resilience and adaptability)",
+      "population": "≈0.1%",
+      "facts": [
+        "Descendants of Ge Hong, a famous Taoist alchemist during the Jin Dynasty",
+        "Many Ge families migrated to Southeast Asia during the Qing Dynasty"
+      ]
+    },
+    {
+      "hanzi": "伍",
+      "yingwen": "Wu",
+      "ipa": "/u˨˩˦/",
+      "meaning": "Five (symbolizing balance and harmony in Confucian philosophy)",
+      "population": "≈0.1%",
+      "facts": [
+        "Descendants of Wu Zixu, a famous general and strategist from the Spring and Autumn period",
+        "Common in Guangdong and Guangxi provinces, with significant diaspora in Southeast Asia"
+      ]
+    },
+    {
+      "hanzi": "韦",
+      "yingwen": "Wei",
+      "ipa": "/wei˧˥/",
+      "meaning": "Leather (symbolizing durability and protection)",
+      "population": "≈0.2%",
+      "facts": [
+        "Originated from the ancient Wei state during the Zhou Dynasty",
+        "Prominent in Guangxi and Shandong provinces, with notable diaspora in Vietnam"
+      ]
+    },
+    {
+      "hanzi": "申",
+      "yingwen": "Shen",
+      "ipa": "/ʂən˥˥/",
+      "meaning": "To extend (symbolizing growth and expansion)",
+      "population": "≈0.3%",
+      "facts": [
+        "Descendants of Shen Nong, the legendary emperor and inventor of agriculture",
+        "Common in Henan and Shandong provinces, with significant diaspora in Korea"
+      ]
+    },
+    {
+      "hanzi": "尤",
+      "yingwen": "You",
+      "ipa": "/joʊ˧˥/",
+      "meaning": "Outstanding (symbolizing excellence and distinction)",
+      "population": "≈0.1%",
+      "facts": [
+        "Originated from the ancient state of You during the Zhou Dynasty",
+        "Prominent in Fujian and Zhejiang provinces, with notable diaspora in Taiwan"
+      ]
+    },
+    {
+      "hanzi": "毕",
+      "yingwen": "Bi",
+      "ipa": "/bi˥˩/",
+      "meaning": "To complete (symbolizing fulfillment and achievement)",
+      "population": "≈0.2%",
+      "facts": [
+        "Descendants of Bi Gan, a loyal minister from the Shang Dynasty",
+        "Common in Shandong and Hebei provinces, with significant diaspora in Japan"
+      ]
+    },
+    {
+      "hanzi": "聂",
+      "yingwen": "Nie",
+      "ipa": "/niɛ˥˩/",
+      "meaning": "To whisper (symbolizing subtlety and discretion)",
+      "population": "≈0.1%",
+      "facts": [
+        "Originated from the ancient state of Nie during the Zhou Dynasty",
+        "Prominent in Hunan and Hubei provinces, with notable diaspora in Malaysia"
+      ]
+    },
+    {
+      "hanzi": "丛",
+      "yingwen": "Cong",
+      "ipa": "/tsʰʊŋ˧˥/",
+      "meaning": "Thicket (symbolizing abundance and fertility)",
+      "population": "≈0.1%",
+      "facts": [
+        "Descendants of Cong Zhi, a famous scholar from the Han Dynasty",
+        "Common in Shandong and Liaoning provinces, with significant diaspora in Singapore"
+      ]
+    },
+    {
+      "hanzi": "焦",
+      "yingwen": "Jiao",
+      "ipa": "/tɕjɑʊ˥˥/",
+      "meaning": "Burnt (symbolizing transformation and renewal)",
+      "population": "≈0.2%",
+      "facts": [
+        "Originated from the ancient state of Jiao during the Zhou Dynasty",
+        "Prominent in Henan and Shaanxi provinces, with notable diaspora in Indonesia"
+      ]
+    },
+    {
+      "hanzi": "向",
+      "yingwen": "Xiang",
+      "ipa": "/ɕjɑŋ˥˩/",
+      "meaning": "Direction (symbolizing guidance and purpose)",
+      "population": "≈0.2%",
+      "facts": [
+        "Descendants of Xiang Yu, the famous warlord from the Chu-Han contention period",
+        "Common in Hunan and Hubei provinces, with significant diaspora in Thailand"
+      ]
+    },
+    {
+      "hanzi": "柳",
+      "yingwen": "Liu",
+      "ipa": "/ljoʊ˨˩˦/",
+      "meaning": "Willow (symbolizing flexibility and resilience)",
+      "population": "≈0.3%",
+      "facts": [
+        "Originated from the ancient state of Liu during the Zhou Dynasty",
+        "Prominent in Shandong and Henan provinces, with notable diaspora in the Philippines"
+      ]
+    },
+    {
+      "hanzi": "邢",
+      "yingwen": "Xing",
+      "ipa": "/ɕiŋ˧˥/",
+      "meaning": "Name of an ancient state (symbolizing heritage and legacy)",
+      "population": "≈0.2%",
+      "facts": [
+        "Descendants of Xing Shu, a noble from the Zhou Dynasty",
+        "Common in Hebei and Shanxi provinces, with significant diaspora in Vietnam"
+      ]
+    },
+    {
+      "hanzi": "路",
+      "yingwen": "Lu",
+      "ipa": "/lu˥˩/",
+      "meaning": "Road (symbolizing journey and progress)",
+      "population": "≈0.2%",
+      "facts": [
+        "Originated from the ancient state of Lu during the Zhou Dynasty",
+        "Prominent in Shandong and Henan provinces, with notable diaspora in Malaysia"
+      ]
+    },
+    {
+      "hanzi": "岳",
+      "yingwen": "Yue",
+      "ipa": "/ɥɛ˥˩/",
+      "meaning": "Mountain (symbolizing strength and stability)",
+      "population": "≈0.1%",
+      "facts": [
+        "Descendants of Yue Fei, the famous general from the Song Dynasty",
+        "Common in Henan and Shandong provinces, with significant diaspora in Korea"
+      ]
+    },
+    {
+      "hanzi": "齐",
+      "yingwen": "Qi",
+      "ipa": "/tɕʰi˧˥/",
+      "meaning": "Uniform (symbolizing unity and harmony)",
+      "population": "≈0.2%",
+      "facts": [
+        "Originated from the ancient state of Qi during the Zhou Dynasty",
+        "Prominent in Shandong and Hebei provinces, with notable diaspora in Japan"
+      ]
+    },
+    {
+      "hanzi": "沿",
+      "yingwen": "Yan",
+      "ipa": "/jɛn˧˥/",
+      "meaning": "Along (symbolizing continuity and flow)",
+      "population": "≈0.1%",
+      "facts": [
+        "Descendants of Yan Zi, a famous philosopher from the Spring and Autumn period",
+        "Common in Jiangsu and Zhejiang provinces, with significant diaspora in Singapore"
+      ]
+    },
+    {
+      "hanzi": "梅",
+      "yingwen": "Mei",
+      "ipa": "/meɪ˧˥/",
+      "meaning": "Plum blossom (symbolizing perseverance and hope)",
+      "population": "≈0.2%",
+      "facts": [
+        "Originated from the ancient state of Mei during the Zhou Dynasty",
+        "Prominent in Guangdong and Fujian provinces, with notable diaspora in Indonesia"
+      ]
+    },
+    {
+      "hanzi": "莫",
+      "yingwen": "Mo",
+      "ipa": "/mwo˥˩/",
+      "meaning": "Do not (symbolizing restraint and caution)",
+      "population": "≈0.2%",
+      "facts": [
+        "Descendants of Mo Xie, a famous swordsmith from the Spring and Autumn period",
+        "Common in Guangxi and Hunan provinces, with significant diaspora in Thailand"
+      ]
+    },
+    {
+      "hanzi": "庄",
+      "yingwen": "Zhuang",
+      "ipa": "/ʈʂwɑŋ˥˥/",
+      "meaning": "Village (symbolizing community and tradition)",
+      "population": "≈0.2%",
+      "facts": [
+        "Originated from the ancient state of Zhuang during the Zhou Dynasty",
+        "Prominent in Fujian and Guangdong provinces, with notable diaspora in Malaysia"
+      ]
+    },
+    {
+      "hanzi": "辛",
+      "yingwen": "Xin",
+      "ipa": "/ɕin˥˥/",
+      "meaning": "Bitter (symbolizing hardship and endurance)",
+      "population": "≈0.1%",
+      "facts": [
+        "Descendants of Xin Ling, a famous general from the Warring States period",
+        "Common in Shandong and Henan provinces, with significant diaspora in Korea"
+      ]
+    },
+    {
+      "hanzi": "管",
+      "yingwen": "Guan",
+      "ipa": "/kwɑn˥˥/",
+      "meaning": "Pipe (symbolizing connection and flow)",
+      "population": "≈0.2%",
+      "facts": [
+        "Originated from the ancient state of Guan during the Zhou Dynasty",
+        "Prominent in Shandong and Hebei provinces, with notable diaspora in Vietnam"
+      ]
+    },
+    {
+      "hanzi": "祝",
+      "yingwen": "Zhu",
+      "ipa": "/ʈʂu˥˩/",
+      "meaning": "To pray (symbolizing hope and blessing)",
+      "population": "≈0.1%",
+      "facts": [
+        "Descendants of Zhu Rong, a legendary fire deity from ancient Chinese mythology",
+        "Common in Henan and Shandong provinces, with significant diaspora in Japan"
+      ]
+    },
+    {
+      "hanzi": "左",
+      "yingwen": "Zuo",
+      "ipa": "/tswo˥˩/",
+      "meaning": "Left (symbolizing support and assistance)",
+      "population": "≈0.2%",
+      "facts": [
+        "Originated from the ancient state of Zuo during the Zhou Dynasty",
+        "Prominent in Shandong and Henan provinces, with notable diaspora in Malaysia"
+      ]
+    },
+    {
+      "hanzi": "涂",
+      "yingwen": "Tu",
+      "ipa": "/tʰu˧˥/",
+      "meaning": "To smear (symbolizing creativity and expression)",
+      "population": "≈0.1%",
+      "facts": [
+        "Descendants of Tu An Gu, a famous scholar from the Han Dynasty",
+        "Common in Jiangxi and Fujian provinces, with significant diaspora in Singapore"
+      ]
+    },
+    {
+      "hanzi": "谷",
+      "yingwen": "Gu",
+      "ipa": "/ku˥˩/",
+      "meaning": "Valley (symbolizing fertility and abundance)",
+      "population": "≈0.2%",
+      "facts": [
+        "Originated from the ancient state of Gu during the Zhou Dynasty",
+        "Prominent in Henan and Shandong provinces, with notable diaspora in Indonesia"
+      ]
+    },
+    {
+      "hanzi": "祁",
+      "yingwen": "Qi",
+      "ipa": "/tɕʰi˧˥/",
+      "meaning": "Pray (symbolizing devotion and faith)",
+      "population": "≈0.1%",
+      "facts": [
+        "Descendants of Qi Zi, a famous philosopher from the Spring and Autumn period",
+        "Common in Shanxi and Hebei provinces, with significant diaspora in Korea"
+      ]
+    },
+    {
+      "hanzi": "时",
+      "yingwen": "Shi",
+      "ipa": "/ʂʅ˧˥/",
+      "meaning": "Time (symbolizing continuity and change)",
+      "population": "≈0.2%",
+      "facts": [
+        "Originated from the ancient state of Shi during the Zhou Dynasty",
+        "Prominent in Shandong and Henan provinces, with notable diaspora in Japan"
+      ]
+    },
+    {
+      "hanzi": "舒",
+      "yingwen": "Shu",
+      "ipa": "/ʂu˥˥/",
+      "meaning": "Comfort (symbolizing ease and relaxation)",
+      "population": "≈0.1%",
+      "facts": [
+        "Descendants of Shu Xiang, a famous scholar from the Spring and Autumn period",
+        "Common in Anhui and Jiangsu provinces, with significant diaspora in Thailand"
+      ]
+    },
+    {
+      "hanzi": "耿",
+      "yingwen": "Geng",
+      "ipa": "/kɤŋ˥˩/",
+      "meaning": "Bright (symbolizing clarity and insight)",
+      "population": "≈0.1%",
+      "facts": [
+        "Originated from the ancient state of Geng during the Zhou Dynasty",
+        "Prominent in Hebei and Shanxi provinces, with notable diaspora in Vietnam"
+      ]
+    },
+    {
+      "hanzi": "牟",
+      "yingwen": "Mou",
+      "ipa": "/moʊ˧˥/",
+      "meaning": "To seek (symbolizing ambition and determination)",
+      "population": "≈0.1%",
+      "facts": [
+        "Descendants of Mou Zi, a famous scholar from the Han Dynasty",
+        "Common in Shandong and Henan provinces, with significant diaspora in Malaysia"
+      ]
+    },
+    {
+      "hanzi": "卜",
+      "yingwen": "Bu",
+      "ipa": "/pu˥˩/",
+      "meaning": "To divine (symbolizing foresight and wisdom)",
+      "population": "≈0.1%",
+      "facts": [
+        "Originated from the ancient state of Bu during the Zhou Dynasty",
+        "Prominent in Shandong and Henan provinces, with notable diaspora in Singapore"
+      ]
+    },
+    {
+      "hanzi": "詹",
+      "yingwen": "Zhan",
+      "ipa": "/ʈʂan˥˥/",
+      "meaning": "Ancient state name, symbolizing heritage and continuity",
+      "population": "≈0.02%",
+      "facts": [
+        "Descendants of the rulers of the ancient Zhan state during the Zhou Dynasty",
+        "Prominent in Fujian and Guangdong, with significant diaspora in Southeast Asia"
+      ]
+    },
+    {
+      "hanzi": "关",
+      "yingwen": "Guan",
+      "ipa": "/kwan˥˥/",
+      "meaning": "Gate or frontier, symbolizing protection and vigilance",
+      "population": "≈0.15%",
+      "facts": [
+        "Associated with Guan Yu, a deified general from the Three Kingdoms period",
+        "Widely distributed in northern China, with notable presence in Taiwan and Hong Kong"
+      ]
+    },
+    {
+      "hanzi": "苗",
+      "yingwen": "Miao",
+      "ipa": "/mjau˧˥/",
+      "meaning": "Seedling, symbolizing growth and potential",
+      "population": "≈0.06%",
+      "facts": [
+        "Originated from the ancient Miao ethnic group, with historical roots in Hunan and Guizhou",
+        "Significant diaspora in Vietnam and Laos due to historical migrations"
+      ]
+    },
+    {
+      "hanzi": "凌",
+      "yingwen": "Ling",
+      "ipa": "/liŋ˧˥/",
+      "meaning": "Ice or frost, symbolizing purity and resilience",
+      "population": "≈0.03%",
+      "facts": [
+        "Descendants of Ling Hu, a notable official during the Tang Dynasty",
+        "Concentrated in Jiangsu and Zhejiang, with a growing presence in the United States"
+      ]
+    },
+    {
+      "hanzi": "费",
+      "yingwen": "Fei",
+      "ipa": "/fei˥˩/",
+      "meaning": "Expense or fee, symbolizing wealth and resourcefulness",
+      "population": "≈0.05%",
+      "facts": [
+        "Originated from the Fei state during the Zhou Dynasty",
+        "Prominent in Shandong and Hebei, with a notable diaspora in South Korea"
+      ]
+    },
+    {
+      "hanzi": "纪",
+      "yingwen": "Ji",
+      "ipa": "/tɕi˥˩/",
+      "meaning": "Record or discipline, symbolizing order and tradition",
+      "population": "≈0.04%",
+      "facts": [
+        "Descendants of Ji Zi, a revered sage during the Shang Dynasty",
+        "Widely distributed in Shandong and Henan, with a significant presence in Japan"
+      ]
+    },
+    {
+      "hanzi": "靳",
+      "yingwen": "Jin",
+      "ipa": "/tɕin˥˩/",
+      "meaning": "Restrain or control, symbolizing discipline and authority",
+      "population": "≈0.02%",
+      "facts": [
+        "Originated from the Jin state during the Zhou Dynasty",
+        "Concentrated in Henan and Shanxi, with a growing diaspora in Canada"
+      ]
+    },
+    {
+      "hanzi": "盛",
+      "yingwen": "Sheng",
+      "ipa": "/ʂɤŋ˥˩/",
+      "meaning": "Prosperous or flourishing, symbolizing success and vitality",
+      "population": "≈0.03%",
+      "facts": [
+        "Descendants of Sheng Xuanhuai, a prominent industrialist during the Qing Dynasty",
+        "Prominent in Jiangsu and Zhejiang, with a notable presence in Singapore"
+      ]
+    },
+    {
+      "hanzi": "童",
+      "yingwen": "Tong",
+      "ipa": "/tʰʊŋ˧˥/",
+      "meaning": "Child or youth, symbolizing innocence and potential",
+      "population": "≈0.04%",
+      "facts": [
+        "Originated from the Tong state during the Zhou Dynasty",
+        "Widely distributed in Anhui and Jiangxi, with a significant diaspora in Malaysia"
+      ]
+    },
+    {
+      "hanzi": "欧",
+      "yingwen": "Ou",
+      "ipa": "/ou˥˥/",
+      "meaning": "Europe or to sing, symbolizing openness and expression",
+      "population": "≈0.03%",
+      "facts": [
+        "Descendants of Ou Yangxiu, a renowned scholar during the Song Dynasty",
+        "Concentrated in Guangdong and Guangxi, with a growing presence in the United States"
+      ]
+    },
+    {
+      "hanzi": "甄",
+      "yingwen": "Zhen",
+      "ipa": "/ʈʂən˥˥/",
+      "meaning": "To distinguish or refine, symbolizing discernment and quality",
+      "population": "≈0.02%",
+      "facts": [
+        "Originated from the Zhen state during the Zhou Dynasty",
+        "Prominent in Hebei and Shandong, with a notable diaspora in the Philippines"
+      ]
+    },
+    {
+      "hanzi": "项",
+      "yingwen": "Xiang",
+      "ipa": "/ɕjɑŋ˥˩/",
+      "meaning": "Neck or item, symbolizing strength and importance",
+      "population": "≈0.03%",
+      "facts": [
+        "Descendants of Xiang Yu, a legendary warrior and king during the Chu-Han contention",
+        "Widely distributed in Henan and Hubei, with a significant presence in Vietnam"
+      ]
+    },
+    {
+      "hanzi": "曲",
+      "yingwen": "Qu",
+      "ipa": "/tɕʰy˥˥/",
+      "meaning": "Song or melody, symbolizing harmony and creativity",
+      "population": "≈0.02%",
+      "facts": [
+        "Originated from the Qu state during the Zhou Dynasty",
+        "Concentrated in Shandong and Hebei, with a growing diaspora in Australia"
+      ]
+    },
+    {
+      "hanzi": "成",
+      "yingwen": "Cheng",
+      "ipa": "/ʈʂʰɤŋ˧˥/",
+      "meaning": "To accomplish or succeed, symbolizing achievement and fulfillment",
+      "population": "≈0.04%",
+      "facts": [
+        "Descendants of Cheng Yaojin, a famous general during the Tang Dynasty",
+        "Prominent in Henan and Shaanxi, with a notable presence in Thailand"
+      ]
+    },
+    {
+      "hanzi": "游",
+      "yingwen": "You",
+      "ipa": "/jou˧˥/",
+      "meaning": "To swim or travel, symbolizing freedom and exploration",
+      "population": "≈0.03%",
+      "facts": [
+        "Originated from the You state during the Zhou Dynasty",
+        "Widely distributed in Fujian and Guangdong, with a significant diaspora in Indonesia"
+      ]
+    },
+    {
+      "hanzi": "阳",
+      "yingwen": "Yang",
+      "ipa": "/jɑŋ˧˥/",
+      "meaning": "Sun or positive, symbolizing brightness and vitality",
+      "population": "≈0.03%",
+      "facts": [
+        "Descendants of Yang Jian, the founder of the Sui Dynasty",
+        "Concentrated in Hunan and Hubei, with a growing presence in the United States"
+      ]
+    },
+    {
+      "hanzi": "裴",
+      "yingwen": "Pei",
+      "ipa": "/pʰei˧˥/",
+      "meaning": "Luxuriant or flourishing, symbolizing growth and prosperity",
+      "population": "≈0.02%",
+      "facts": [
+        "Originated from the Pei state during the Zhou Dynasty",
+        "Prominent in Shanxi and Shaanxi, with a notable diaspora in South Korea"
+      ]
+    },
+    {
+      "hanzi": "席",
+      "yingwen": "Xi",
+      "ipa": "/ɕi˧˥/",
+      "meaning": "Mat or seat, symbolizing hospitality and stability",
+      "population": "≈0.02%",
+      "facts": [
+        "Descendants of Xi Zhong, a legendary inventor during the Xia Dynasty",
+        "Widely distributed in Henan and Shandong, with a significant presence in Malaysia"
+      ]
+    },
+    {
+      "hanzi": "卫",
+      "yingwen": "Wei",
+      "ipa": "/wei˥˩/",
+      "meaning": "To guard or protect, symbolizing security and vigilance",
+      "population": "≈0.03%",
+      "facts": [
+        "Originated from the Wei state during the Zhou Dynasty",
+        "Concentrated in Shanxi and Hebei, with a growing diaspora in Canada"
+      ]
+    },
+    {
+      "hanzi": "查",
+      "yingwen": "Zha",
+      "ipa": "/ʈʂa˥˥/",
+      "meaning": "To investigate or examine, symbolizing curiosity and diligence",
+      "population": "≈0.02%",
+      "facts": [
+        "Descendants of Zha Kaizhi, a prominent scholar during the Song Dynasty",
+        "Prominent in Anhui and Jiangxi, with a notable presence in the Philippines"
+      ]
+    },
+    {
+      "hanzi": "屈",
+      "yingwen": "Qu",
+      "ipa": "/tɕʰy˥˥/",
+      "meaning": "To bend or yield, symbolizing flexibility and resilience",
+      "population": "≈0.02%",
+      "facts": [
+        "Originated from the Qu Yuan, a famous poet and minister during the Warring States period",
+        "Widely distributed in Hubei and Hunan, with a significant diaspora in Vietnam"
+      ]
+    },
+    {
+      "hanzi": "鲍",
+      "yingwen": "Bao",
+      "ipa": "/pɑu˥˩/",
+      "meaning": "Abalone or to cherish, symbolizing value and care",
+      "population": "≈0.03%",
+      "facts": [
+        "Descendants of Bao Shuya, a renowned statesman during the Spring and Autumn period",
+        "Concentrated in Shandong and Jiangsu, with a growing presence in the United States"
+      ]
+    },
+    {
+      "hanzi": "位",
+      "yingwen": "Wei",
+      "ipa": "/wei˥˩/",
+      "meaning": "Position or rank, symbolizing status and responsibility",
+      "population": "≈0.01%",
+      "facts": [
+        "Originated from the Wei state during the Zhou Dynasty",
+        "Prominent in Henan and Hebei, with a notable diaspora in Japan"
+      ]
+    },
+    {
+      "hanzi": "覃",
+      "yingwen": "Tan",
+      "ipa": "/tʰan˧˥/",
+      "meaning": "Deep or profound, symbolizing depth and wisdom",
+      "population": "≈0.02%",
+      "facts": [
+        "Descendants of Tan Daoji, a famous general during the Southern and Northern Dynasties",
+        "Widely distributed in Guangxi and Guangdong, with a significant presence in Thailand"
+      ]
+    },
+    {
+      "hanzi": "霍",
+      "yingwen": "Huo",
+      "ipa": "/xwo˥˩/",
+      "meaning": "Sudden or quick, symbolizing speed and decisiveness",
+      "population": "≈0.02%",
+      "facts": [
+        "Originated from the Huo state during the Zhou Dynasty",
+        "Concentrated in Shanxi and Shaanxi, with a growing diaspora in Australia"
+      ]
+    },
+    {
+      "hanzi": "翁",
+      "yingwen": "Weng",
+      "ipa": "/wɤŋ˥˥/",
+      "meaning": "Old man or elder, symbolizing wisdom and experience",
+      "population": "≈0.02%",
+      "facts": [
+        "Descendants of Weng Tonghe, a prominent scholar and official during the Qing Dynasty",
+        "Prominent in Fujian and Zhejiang, with a notable presence in Malaysia"
+      ]
+    },
+    {
+      "hanzi": "隋",
+      "yingwen": "Sui",
+      "ipa": "/swei˧˥/",
+      "meaning": "To follow or comply, symbolizing adaptability and loyalty",
+      "population": "≈0.01%",
+      "facts": [
+        "Originated from the Sui Dynasty, founded by Yang Jian",
+        "Widely distributed in Shandong and Henan, with a significant diaspora in South Korea"
+      ]
+    },
+    {
+      "hanzi": "植",
+      "yingwen": "Zhi",
+      "ipa": "/ʈʂʐ̩˧˥/",
+      "meaning": "To plant or cultivate, symbolizing growth and nurturing",
+      "population": "≈0.01%",
+      "facts": [
+        "Descendants of Zhi Dao, a notable official during the Tang Dynasty",
+        "Concentrated in Guangdong and Guangxi, with a growing presence in the United States"
+      ]
+    },
+    {
+      "hanzi": "甘",
+      "yingwen": "Gan",
+      "ipa": "/kan˥˥/",
+      "meaning": "Sweet or pleasant, symbolizing joy and contentment",
+      "population": "≈0.02%",
+      "facts": [
+        "Originated from the Gan state during the Zhou Dynasty",
+        "Prominent in Jiangxi and Hunan, with a notable diaspora in Vietnam"
+      ]
+    },
+    {
+      "hanzi": "景",
+      "yingwen": "Jing",
+      "ipa": "/tɕiŋ˥˩/",
+      "meaning": "Scenery or view, symbolizing beauty and perspective",
+      "population": "≈0.02%",
+      "facts": [
+        "Descendants of Jing Ke, a famous assassin during the Warring States period",
+        "Widely distributed in Henan and Shandong, with a significant presence in Indonesia"
+      ]
+    },
+    {
+      "hanzi": "薄",
+      "yingwen": "Bo",
+      "ipa": "/pwo˧˥/",
+      "meaning": "Thin, delicate (symbolizing humility and subtlety)",
+      "population": "≈0.01%",
+      "facts": [
+        "Descendants of the ancient state of Bo during the Zhou Dynasty",
+        "Prominent in Shandong and Henan provinces, with historical ties to Confucian scholars"
+      ]
+    },
+    {
+      "hanzi": "单",
+      "yingwen": "Shan",
+      "ipa": "/ʂan˥˥/",
+      "meaning": "Single, unique (symbolizing individuality and simplicity)",
+      "population": "≈0.02%",
+      "facts": [
+        "Originated from the ancient state of Shan during the Zhou Dynasty",
+        "Common in northern China, particularly in Hebei and Shandong provinces"
+      ]
+    },
+    {
+      "hanzi": "包",
+      "yingwen": "Bao",
+      "ipa": "/pɑʊ˥˥/",
+      "meaning": "Wrap, contain (symbolizing protection and care)",
+      "population": "≈0.1%",
+      "facts": [
+        "Descendants of Bao Shuya, a famous statesman from the Spring and Autumn period",
+        "Widely distributed in Anhui and Jiangsu provinces, with significant diaspora in Southeast Asia"
+      ]
+    },
+    {
+      "hanzi": "司",
+      "yingwen": "Si",
+      "ipa": "/sɨ˥˥/",
+      "meaning": "Administer, manage (symbolizing governance and order)",
+      "population": "≈0.03%",
+      "facts": [
+        "Originated from official titles in ancient China, particularly during the Zhou Dynasty",
+        "Concentrated in Henan and Shandong provinces, with historical ties to legal and administrative roles"
+      ]
+    },
+    {
+      "hanzi": "柏",
+      "yingwen": "Bai",
+      "ipa": "/paɪ˧˥/",
+      "meaning": "Cypress tree (symbolizing longevity and resilience)",
+      "population": "≈0.02%",
+      "facts": [
+        "Descendants of the ancient state of Bai during the Zhou Dynasty",
+        "Common in Sichuan and Hunan provinces, with historical connections to Daoist practices"
+      ]
+    },
+    {
+      "hanzi": "宁",
+      "yingwen": "Ning",
+      "ipa": "/niŋ˧˥/",
+      "meaning": "Tranquility, peace (symbolizing harmony and calmness)",
+      "population": "≈0.05%",
+      "facts": [
+        "Originated from the ancient state of Ning during the Zhou Dynasty",
+        "Prominent in Henan and Shandong provinces, with historical ties to Confucian scholars"
+      ]
+    },
+    {
+      "hanzi": "柯",
+      "yingwen": "Ke",
+      "ipa": "/kɤ˥˥/",
+      "meaning": "Axe handle (symbolizing strength and utility)",
+      "population": "≈0.03%",
+      "facts": [
+        "Descendants of the ancient state of Ke during the Zhou Dynasty",
+        "Common in Fujian and Guangdong provinces, with significant diaspora in Taiwan"
+      ]
+    },
+    {
+      "hanzi": "阮",
+      "yingwen": "Ruan",
+      "ipa": "/ɻwan˧˥/",
+      "meaning": "Soft, gentle (symbolizing flexibility and adaptability)",
+      "population": "≈0.1%",
+      "facts": [
+        "Originated from the ancient state of Ruan during the Zhou Dynasty",
+        "Widely distributed in Guangdong and Guangxi provinces, with historical ties to musical traditions"
+      ]
+    },
+    {
+      "hanzi": "桂",
+      "yingwen": "Gui",
+      "ipa": "/kweɪ˥˥/",
+      "meaning": "Osmanthus (symbolizing nobility and fragrance)",
+      "population": "≈0.05%",
+      "facts": [
+        "Descendants of the ancient state of Gui during the Zhou Dynasty",
+        "Common in Guangxi and Hunan provinces, with historical connections to imperial examinations"
+      ]
+    },
+    {
+      "hanzi": "闵",
+      "yingwen": "Min",
+      "ipa": "/min˧˥/",
+      "meaning": "Compassion, sympathy (symbolizing empathy and kindness)",
+      "population": "≈0.03%",
+      "facts": [
+        "Originated from the ancient state of Min during the Zhou Dynasty",
+        "Prominent in Shandong and Henan provinces, with historical ties to Confucian scholars"
+      ]
+    },
+    {
+      "hanzi": "欧阳",
+      "yingwen": "Ouyang",
+      "ipa": "/oʊ˥˥jɑŋ˧˥/",
+      "meaning": "South of the Ou River (symbolizing geographical identity and heritage)",
+      "population": "≈0.1%",
+      "facts": [
+        "Descendants of the ancient state of Yue during the Zhou Dynasty",
+        "Widely distributed in Hunan and Jiangxi provinces, with significant diaspora in Southeast Asia"
+      ]
+    },
+    {
+      "hanzi": "解",
+      "yingwen": "Xie",
+      "ipa": "/ɕjɛ˥˥/",
+      "meaning": "Untie, explain (symbolizing clarity and resolution)",
+      "population": "≈0.02%",
+      "facts": [
+        "Originated from the ancient state of Xie during the Zhou Dynasty",
+        "Common in Shanxi and Shaanxi provinces, with historical ties to legal and administrative roles"
+      ]
+    },
+    {
+      "hanzi": "强",
+      "yingwen": "Qiang",
+      "ipa": "/tɕʰjɑŋ˧˥/",
+      "meaning": "Strong, powerful (symbolizing strength and determination)",
+      "population": "≈0.05%",
+      "facts": [
+        "Descendants of the ancient Qiang ethnic group during the Zhou Dynasty",
+        "Prominent in Shaanxi and Gansu provinces, with historical connections to military roles"
+      ]
+    },
+    {
+      "hanzi": "柴",
+      "yingwen": "Chai",
+      "ipa": "/ʈʂʰaɪ˧˥/",
+      "meaning": "Firewood (symbolizing warmth and sustenance)",
+      "population": "≈0.03%",
+      "facts": [
+        "Originated from the ancient state of Chai during the Zhou Dynasty",
+        "Common in Henan and Hebei provinces, with historical ties to agricultural practices"
+      ]
+    },
+    {
+      "hanzi": "华",
+      "yingwen": "Hua",
+      "ipa": "/xwɑ˧˥/",
+      "meaning": "Magnificent, splendid (symbolizing beauty and grandeur)",
+      "population": "≈0.1%",
+      "facts": [
+        "Descendants of the ancient state of Hua during the Zhou Dynasty",
+        "Widely distributed in Jiangsu and Zhejiang provinces, with significant diaspora in Southeast Asia"
+      ]
+    },
+    {
+      "hanzi": "车",
+      "yingwen": "Che",
+      "ipa": "/ʈʂʰɤ˥˥/",
+      "meaning": "Cart, vehicle (symbolizing movement and progress)",
+      "population": "≈0.02%",
+      "facts": [
+        "Originated from the ancient state of Che during the Zhou Dynasty",
+        "Common in Shandong and Henan provinces, with historical ties to transportation and trade"
+      ]
+    },
+    {
+      "hanzi": "冉",
+      "yingwen": "Ran",
+      "ipa": "/ɻan˧˥/",
+      "meaning": "Gradual, slow (symbolizing patience and perseverance)",
+      "population": "≈0.03%",
+      "facts": [
+        "Descendants of the ancient state of Ran during the Zhou Dynasty",
+        "Prominent in Sichuan and Chongqing provinces, with historical connections to Daoist practices"
+      ]
+    },
+    {
+      "hanzi": "房",
+      "yingwen": "Fang",
+      "ipa": "/fɑŋ˧˥/",
+      "meaning": "House, room (symbolizing shelter and family)",
+      "population": "≈0.02%",
+      "facts": [
+        "Originated from the ancient state of Fang during the Zhou Dynasty",
+        "Common in Henan and Shandong provinces, with historical ties to architectural roles"
+      ]
+    },
+    {
+      "hanzi": "边",
+      "yingwen": "Bian",
+      "ipa": "/pjɛn˥˥/",
+      "meaning": "Edge, border (symbolizing boundaries and limits)",
+      "population": "≈0.01%",
+      "facts": [
+        "Descendants of the ancient state of Bian during the Zhou Dynasty",
+        "Prominent in Hebei and Shanxi provinces, with historical connections to military roles"
+      ]
+    },
+    {
+      "hanzi": "辜",
+      "yingwen": "Gu",
+      "ipa": "/ku˥˥/",
+      "meaning": "Sin, crime (symbolizing redemption and forgiveness)",
+      "population": "≈0.01%",
+      "facts": [
+        "Originated from the ancient state of Gu during the Zhou Dynasty",
+        "Common in Fujian and Guangdong provinces, with historical ties to legal roles"
+      ]
+    },
+    {
+      "hanzi": "吉",
+      "yingwen": "Ji",
+      "ipa": "/tɕi˥˥/",
+      "meaning": "Auspicious, lucky (symbolizing good fortune and prosperity)",
+      "population": "≈0.03%",
+      "facts": [
+        "Descendants of the ancient state of Ji during the Zhou Dynasty",
+        "Widely distributed in Shandong and Henan provinces, with significant diaspora in Southeast Asia"
+      ]
+    },
+    {
+      "hanzi": "饶",
+      "yingwen": "Rao",
+      "ipa": "/ɻɑʊ˧˥/",
+      "meaning": "Abundant, plentiful (symbolizing wealth and generosity)",
+      "population": "≈0.02%",
+      "facts": [
+        "Originated from the ancient state of Rao during the Zhou Dynasty",
+        "Common in Jiangxi and Hunan provinces, with historical ties to agricultural practices"
+      ]
+    },
+    {
+      "hanzi": "刁",
+      "yingwen": "Diao",
+      "ipa": "/tjɑʊ˥˥/",
+      "meaning": "Tricky, cunning (symbolizing cleverness and resourcefulness)",
+      "population": "≈0.01%",
+      "facts": [
+        "Descendants of the ancient state of Diao during the Zhou Dynasty",
+        "Prominent in Shandong and Henan provinces, with historical connections to legal roles"
+      ]
+    },
+    {
+      "hanzi": "瞿",
+      "yingwen": "Qu",
+      "ipa": "/tɕʰy˧˥/",
+      "meaning": "Frightened, startled (symbolizing alertness and vigilance)",
+      "population": "≈0.01%",
+      "facts": [
+        "Originated from the ancient state of Qu during the Zhou Dynasty",
+        "Common in Sichuan and Chongqing provinces, with historical ties to military roles"
+      ]
+    },
+    {
+      "hanzi": "戚",
+      "yingwen": "Qi",
+      "ipa": "/tɕʰi˥˥/",
+      "meaning": "Relative, kin (symbolizing family and relationships)",
+      "population": "≈0.02%",
+      "facts": [
+        "Descendants of the ancient state of Qi during the Zhou Dynasty",
+        "Prominent in Shandong and Henan provinces, with historical connections to Confucian scholars"
+      ]
+    },
+    {
+      "hanzi": "丘",
+      "yingwen": "Qiu",
+      "ipa": "/tɕʰjoʊ˥˥/",
+      "meaning": "Hill, mound (symbolizing stability and elevation)",
+      "population": "≈0.03%",
+      "facts": [
+        "Originated from the ancient state of Qiu during the Zhou Dynasty",
+        "Common in Guangdong and Fujian provinces, with significant diaspora in Southeast Asia"
+      ]
+    },
+    {
+      "hanzi": "古",
+      "yingwen": "Gu",
+      "ipa": "/ku˧˥/",
+      "meaning": "Ancient, old (symbolizing tradition and wisdom)",
+      "population": "≈0.02%",
+      "facts": [
+        "Descendants of the ancient state of Gu during the Zhou Dynasty",
+        "Widely distributed in Henan and Shandong provinces, with historical ties to Confucian scholars"
+      ]
+    },
+    {
+      "hanzi": "米",
+      "yingwen": "Mi",
+      "ipa": "/mi˧˥/",
+      "meaning": "Rice (symbolizing sustenance and fertility)",
+      "population": "≈0.03%",
+      "facts": [
+        "Originated from the ancient state of Mi during the Zhou Dynasty",
+        "Common in Hunan and Hubei provinces, with historical connections to agricultural practices"
+      ]
+    },
+    {
+      "hanzi": "池",
+      "yingwen": "Chi",
+      "ipa": "/ʈʂʰɨ˧˥/",
+      "meaning": "Pond, pool (symbolizing tranquility and reflection)",
+      "population": "≈0.01%",
+      "facts": [
+        "Descendants of the ancient state of Chi during the Zhou Dynasty",
+        "Prominent in Anhui and Jiangsu provinces, with historical ties to Daoist practices"
+      ]
+    },
+    {
+      "hanzi": "滕",
+      "yingwen": "Teng",
+      "ipa": "/tʰɤŋ˧˥/",
+      "meaning": "Rise, ascend (symbolizing growth and progress)",
+      "population": "≈0.01%",
+      "facts": [
+        "Originated from the ancient state of Teng during the Zhou Dynasty",
+        "Common in Shandong and Henan provinces, with historical connections to imperial examinations"
+      ]
+    },
+    {
+      "hanzi": "晋",
+      "yingwen": "Jin",
+      "ipa": "/tɕin˥˩/",
+      "meaning": "Refers to the ancient state of Jin, symbolizing historical depth and cultural heritage",
+      "population": "≈0.01%",
+      "facts": [
+        "Many descendants trace their lineage to the Jin state during the Spring and Autumn period",
+        "The surname is more common in Shanxi province, the historical location of the Jin state"
+      ]
+    },
+    {
+      "hanzi": "苑",
+      "yingwen": "Yuan",
+      "ipa": "/ɥɛn˥˩/",
+      "meaning": "Garden or park, symbolizing beauty and tranquility",
+      "population": "≈0.02%",
+      "facts": [
+        "The surname is associated with the ancient Yuan gardens, which were symbols of imperial luxury",
+        "Commonly found in Henan and Hebei provinces"
+      ]
+    },
+    {
+      "hanzi": "邬",
+      "yingwen": "Wu",
+      "ipa": "/u˥˥/",
+      "meaning": "Refers to a type of ancient settlement, symbolizing community and unity",
+      "population": "≈0.03%",
+      "facts": [
+        "The surname has roots in the ancient state of Wu during the Zhou Dynasty",
+        "Predominantly found in Jiangxi and Fujian provinces"
+      ]
+    },
+    {
+      "hanzi": "臧",
+      "yingwen": "Zang",
+      "ipa": "/tsɑŋ˥˥/",
+      "meaning": "Good or virtuous, symbolizing moral integrity",
+      "population": "≈0.01%",
+      "facts": [
+        "The surname is linked to the ancient Zang family, known for their contributions to Confucian philosophy",
+        "Mostly found in Shandong province"
+      ]
+    },
+    {
+      "hanzi": "畅",
+      "yingwen": "Chang",
+      "ipa": "/ʈʂʰɑŋ˥˩/",
+      "meaning": "Smooth or fluent, symbolizing ease and harmony",
+      "population": "≈0.01%",
+      "facts": [
+        "The surname is associated with the ancient Chang family, known for their literary works",
+        "Commonly found in Henan province"
+      ]
+    },
+    {
+      "hanzi": "宫",
+      "yingwen": "Gong",
+      "ipa": "/kʊŋ˥˥/",
+      "meaning": "Palace, symbolizing nobility and grandeur",
+      "population": "≈0.02%",
+      "facts": [
+        "The surname is linked to the ancient Gong family, who were often associated with imperial service",
+        "Predominantly found in Shandong and Hebei provinces"
+      ]
+    },
+    {
+      "hanzi": "来",
+      "yingwen": "Lai",
+      "ipa": "/laɪ˧˥/",
+      "meaning": "Come or arrive, symbolizing new beginnings and opportunities",
+      "population": "≈0.01%",
+      "facts": [
+        "The surname is associated with the ancient Lai family, known for their contributions to Chinese literature",
+        "Mostly found in Guangdong province"
+      ]
+    },
+    {
+      "hanzi": "嵺",
+      "yingwen": "Liao",
+      "ipa": "/ljɑʊ˥˩/",
+      "meaning": "High or lofty, symbolizing ambition and aspiration",
+      "population": "≈0.01%",
+      "facts": [
+        "The surname is linked to the ancient Liao family, known for their military prowess",
+        "Commonly found in Hunan province"
+      ]
+    },
+    {
+      "hanzi": "苟",
+      "yingwen": "Gou",
+      "ipa": "/koʊ˥˩/",
+      "meaning": "Temporary or provisional, symbolizing adaptability and resilience",
+      "population": "≈0.01%",
+      "facts": [
+        "The surname is associated with the ancient Gou family, known for their strategic thinking",
+        "Predominantly found in Sichuan province"
+      ]
+    },
+    {
+      "hanzi": "全",
+      "yingwen": "Quan",
+      "ipa": "/tɕʰɥɛn˧˥/",
+      "meaning": "Complete or whole, symbolizing perfection and unity",
+      "population": "≈0.01%",
+      "facts": [
+        "The surname is linked to the ancient Quan family, known for their contributions to Chinese medicine",
+        "Mostly found in Zhejiang province"
+      ]
+    },
+    {
+      "hanzi": "褚",
+      "yingwen": "Chu",
+      "ipa": "/ʈʂʰu˨˩˦/",
+      "meaning": "Storage or accumulation, symbolizing wealth and prosperity",
+      "population": "≈0.01%",
+      "facts": [
+        "The surname is associated with the ancient Chu family, known for their merchant activities",
+        "Commonly found in Jiangsu province"
+      ]
+    },
+    {
+      "hanzi": "廉",
+      "yingwen": "Lian",
+      "ipa": "/ljɛn˧˥/",
+      "meaning": "Honest or incorruptible, symbolizing integrity and righteousness",
+      "population": "≈0.01%",
+      "facts": [
+        "The surname is linked to the ancient Lian family, known for their ethical governance",
+        "Predominantly found in Shandong province"
+      ]
+    },
+    {
+      "hanzi": "简",
+      "yingwen": "Jian",
+      "ipa": "/tɕjɛn˨˩˦/",
+      "meaning": "Simple or uncomplicated, symbolizing clarity and purity",
+      "population": "≈0.01%",
+      "facts": [
+        "The surname is associated with the ancient Jian family, known for their literary simplicity",
+        "Mostly found in Fujian province"
+      ]
+    },
+    {
+      "hanzi": "娄",
+      "yingwen": "Lou",
+      "ipa": "/loʊ˧˥/",
+      "meaning": "A type of ancient building, symbolizing stability and shelter",
+      "population": "≈0.01%",
+      "facts": [
+        "The surname is linked to the ancient Lou family, known for their architectural contributions",
+        "Commonly found in Henan province"
+      ]
+    },
+    {
+      "hanzi": "盖",
+      "yingwen": "Gai",
+      "ipa": "/kaɪ˥˩/",
+      "meaning": "Cover or lid, symbolizing protection and security",
+      "population": "≈0.01%",
+      "facts": [
+        "The surname is associated with the ancient Gai family, known for their protective roles in communities",
+        "Predominantly found in Shandong province"
+      ]
+    },
+    {
+      "hanzi": "符",
+      "yingwen": "Fu",
+      "ipa": "/fu˧˥/",
+      "meaning": "Talisman or charm, symbolizing good luck and protection",
+      "population": "≈0.01%",
+      "facts": [
+        "The surname is linked to the ancient Fu family, known for their roles in religious ceremonies",
+        "Mostly found in Hunan province"
+      ]
+    },
+    {
+      "hanzi": "奚",
+      "yingwen": "Xi",
+      "ipa": "/ɕi˥˥/",
+      "meaning": "Why or how, symbolizing curiosity and inquiry",
+      "population": "≈0.01%",
+      "facts": [
+        "The surname is associated with the ancient Xi family, known for their philosophical inquiries",
+        "Commonly found in Jiangsu province"
+      ]
+    },
+    {
+      "hanzi": "木",
+      "yingwen": "Mu",
+      "ipa": "/mu˥˩/",
+      "meaning": "Tree or wood, symbolizing growth and strength",
+      "population": "≈0.01%",
+      "facts": [
+        "The surname is linked to the ancient Mu family, known for their contributions to forestry and agriculture",
+        "Predominantly found in Yunnan province"
+      ]
+    },
+    {
+      "hanzi": "穆",
+      "yingwen": "Mu",
+      "ipa": "/mu˥˩/",
+      "meaning": "Reverent or solemn, symbolizing respect and dignity",
+      "population": "≈0.01%",
+      "facts": [
+        "The surname is associated with the ancient Mu family, known for their roles in religious and ceremonial practices",
+        "Mostly found in Hebei province"
+      ]
+    },
+    {
+      "hanzi": "党",
+      "yingwen": "Dang",
+      "ipa": "/tɑŋ˨˩˦/",
+      "meaning": "Political party or faction, symbolizing unity and collective action",
+      "population": "≈0.01%",
+      "facts": [
+        "The surname is linked to the ancient Dang family, known for their political influence",
+        "Commonly found in Shaanxi province"
+      ]
+    },
+    {
+      "hanzi": "燕",
+      "yingwen": "Yan",
+      "ipa": "/jɛn˥˥/",
+      "meaning": "Swallow (bird), symbolizing freedom and joy",
+      "population": "≈0.01%",
+      "facts": [
+        "The surname is associated with the ancient Yan state during the Zhou Dynasty",
+        "Predominantly found in Hebei province"
+      ]
+    },
+    {
+      "hanzi": "郎",
+      "yingwen": "Lang",
+      "ipa": "/lɑŋ˧˥/",
+      "meaning": "Young man or gentleman, symbolizing youth and vitality",
+      "population": "≈0.01%",
+      "facts": [
+        "The surname is linked to the ancient Lang family, known for their chivalric roles",
+        "Mostly found in Shandong province"
+      ]
+    },
+    {
+      "hanzi": "邸",
+      "yingwen": "Di",
+      "ipa": "/ti˥˩/",
+      "meaning": "Mansion or residence, symbolizing wealth and status",
+      "population": "≈0.01%",
+      "facts": [
+        "The surname is associated with the ancient Di family, known for their luxurious residences",
+        "Commonly found in Hebei province"
+      ]
+    },
+    {
+      "hanzi": "冀",
+      "yingwen": "Ji",
+      "ipa": "/tɕi˥˩/",
+      "meaning": "Hope or expectation, symbolizing optimism and aspiration",
+      "population": "≈0.01%",
+      "facts": [
+        "The surname is linked to the ancient Ji family, known for their hopeful outlooks",
+        "Predominantly found in Hebei province"
+      ]
+    },
+    {
+      "hanzi": "谈",
+      "yingwen": "Tan",
+      "ipa": "/tʰan˧˥/",
+      "meaning": "Talk or discuss, symbolizing communication and wisdom",
+      "population": "≈0.01%",
+      "facts": [
+        "The surname is associated with the ancient Tan family, known for their eloquence and debate skills",
+        "Mostly found in Hunan province"
+      ]
+    },
+    {
+      "hanzi": "姬",
+      "yingwen": "Ji",
+      "ipa": "/tɕi˥˥/",
+      "meaning": "Royal concubine, symbolizing nobility and grace",
+      "population": "≈0.01%",
+      "facts": [
+        "The surname is linked to the ancient Ji family, known for their royal connections",
+        "Commonly found in Shaanxi province"
+      ]
+    },
+    {
+      "hanzi": "屠",
+      "yingwen": "Tu",
+      "ipa": "/tʰu˧˥/",
+      "meaning": "Butcher or slaughter, symbolizing strength and resilience",
+      "population": "≈0.01%",
+      "facts": [
+        "The surname is associated with the ancient Tu family, known for their roles in butchery and meat trade",
+        "Predominantly found in Zhejiang province"
+      ]
+    },
+    {
+      "hanzi": "连",
+      "yingwen": "Lian",
+      "ipa": "/ljɛn˧˥/",
+      "meaning": "Connect or link, symbolizing unity and continuity",
+      "population": "≈0.01%",
+      "facts": [
+        "The surname is linked to the ancient Lian family, known for their roles in trade and commerce",
+        "Mostly found in Fujian province"
+      ]
+    },
+    {
+      "hanzi": "郜",
+      "yingwen": "Gao",
+      "ipa": "/kɑʊ˥˩/",
+      "meaning": "High or elevated, symbolizing ambition and aspiration",
+      "population": "≈0.01%",
+      "facts": [
+        "The surname is associated with the ancient Gao family, known for their high social status",
+        "Commonly found in Shandong province"
+      ]
+    },
+    {
+      "hanzi": "晏",
+      "yingwen": "Yan",
+      "ipa": "/jɛn˥˩/",
+      "meaning": "Peaceful or calm, symbolizing tranquility and harmony",
+      "population": "≈0.01%",
+      "facts": [
+        "The surname is linked to the ancient Yan family, known for their peaceful governance",
+        "Predominantly found in Henan province"
+      ]
+    },
+    {
+      "hanzi": "栾",
+      "yingwen": "Luan",
+      "ipa": "/lwan˧˥/",
+      "meaning": "Goldenrain tree (symbolizing prosperity and beauty)",
+      "population": "≈0.01%",
+      "facts": [
+        "Originated from the ancient state of Luan during the Zhou Dynasty",
+        "Many Luan families migrated to Korea during the Tang Dynasty, influencing Korean surnames"
+      ]
+    },
+    {
+      "hanzi": "郁",
+      "yingwen": "Yu",
+      "ipa": "/y˥˩/",
+      "meaning": "Lush, abundant (symbolizing vitality and growth)",
+      "population": "≈0.02%",
+      "facts": [
+        "Descendants of Yu the Great, a legendary ruler in Chinese mythology",
+        "Prominent in Jiangsu and Zhejiang provinces, with significant diaspora in Southeast Asia"
+      ]
+    },
+    {
+      "hanzi": "商",
+      "yingwen": "Shang",
+      "ipa": "/ʂɑŋ˥/",
+      "meaning": "Commerce, trade (symbolizing wealth and exchange)",
+      "population": "≈0.03%",
+      "facts": [
+        "Linked to the Shang Dynasty, one of the earliest recorded Chinese dynasties",
+        "Many Shang families migrated to Taiwan during the Qing Dynasty"
+      ]
+    },
+    {
+      "hanzi": "蒙",
+      "yingwen": "Meng",
+      "ipa": "/mɤŋ˧˥/",
+      "meaning": "Cover, conceal (symbolizing protection and mystery)",
+      "population": "≈0.02%",
+      "facts": [
+        "Originated from the ancient state of Meng during the Zhou Dynasty",
+        "Significant presence in Guangxi and Yunnan provinces, with connections to ethnic minorities"
+      ]
+    },
+    {
+      "hanzi": "计",
+      "yingwen": "Ji",
+      "ipa": "/tɕi˥˩/",
+      "meaning": "Calculate, plan (symbolizing wisdom and strategy)",
+      "population": "≈0.01%",
+      "facts": [
+        "Descendants of Ji Zha, a famous diplomat and musician from the Spring and Autumn period",
+        "Many Ji families migrated to Vietnam during the Tang Dynasty"
+      ]
+    },
+    {
+      "hanzi": "喻",
+      "yingwen": "Yu",
+      "ipa": "/y˥˩/",
+      "meaning": "Metaphor, analogy (symbolizing depth and insight)",
+      "population": "≈0.01%",
+      "facts": [
+        "Originated from the ancient state of Yu during the Zhou Dynasty",
+        "Prominent in Hunan and Hubei provinces, with significant diaspora in the United States"
+      ]
+    },
+    {
+      "hanzi": "揭",
+      "yingwen": "Jie",
+      "ipa": "/tɕjɛ˥/",
+      "meaning": "Lift, reveal (symbolizing discovery and enlightenment)",
+      "population": "≈0.01%",
+      "facts": [
+        "Linked to the ancient state of Jie during the Zhou Dynasty",
+        "Many Jie families migrated to Malaysia during the Ming Dynasty"
+      ]
+    },
+    {
+      "hanzi": "窦",
+      "yingwen": "Dou",
+      "ipa": "/toʊ˥˩/",
+      "meaning": "Hole, cavity (symbolizing depth and mystery)",
+      "population": "≈0.02%",
+      "facts": [
+        "Descendants of Dou Rong, a prominent general during the Han Dynasty",
+        "Significant presence in Henan and Shandong provinces, with connections to the Silk Road"
+      ]
+    },
+    {
+      "hanzi": "迟",
+      "yingwen": "Chi",
+      "ipa": "/ʈʂʰɨ˧˥/",
+      "meaning": "Late, slow (symbolizing patience and deliberation)",
+      "population": "≈0.01%",
+      "facts": [
+        "Originated from the ancient state of Chi during the Zhou Dynasty",
+        "Many Chi families migrated to Korea during the Tang Dynasty"
+      ]
+    },
+    {
+      "hanzi": "宇",
+      "yingwen": "Yu",
+      "ipa": "/y˥˩/",
+      "meaning": "Universe, space (symbolizing vastness and infinity)",
+      "population": "≈0.01%",
+      "facts": [
+        "Linked to the ancient state of Yu during the Zhou Dynasty",
+        "Prominent in Fujian and Guangdong provinces, with significant diaspora in Southeast Asia"
+      ]
+    },
+    {
+      "hanzi": "敖",
+      "yingwen": "Ao",
+      "ipa": "/ɑʊ˥/",
+      "meaning": "Roam, wander (symbolizing freedom and exploration)",
+      "population": "≈0.01%",
+      "facts": [
+        "Descendants of Ao Bing, a legendary dragon king in Chinese mythology",
+        "Many Ao families migrated to Vietnam during the Tang Dynasty"
+      ]
+    },
+    {
+      "hanzi": "糜",
+      "yingwen": "Mi",
+      "ipa": "/mi˧˥/",
+      "meaning": "Rice gruel (symbolizing nourishment and sustenance)",
+      "population": "≈0.01%",
+      "facts": [
+        "Originated from the ancient state of Mi during the Zhou Dynasty",
+        "Significant presence in Sichuan and Chongqing provinces, with connections to the Ba culture"
+      ]
+    },
+    {
+      "hanzi": "鄢",
+      "yingwen": "Yan",
+      "ipa": "/jɛn˥/",
+      "meaning": "Swallow (bird) (symbolizing grace and agility)",
+      "population": "≈0.01%",
+      "facts": [
+        "Linked to the ancient state of Yan during the Zhou Dynasty",
+        "Many Yan families migrated to Korea during the Tang Dynasty"
+      ]
+    },
+    {
+      "hanzi": "冷",
+      "yingwen": "Leng",
+      "ipa": "/lɤŋ˧˥/",
+      "meaning": "Cold (symbolizing resilience and endurance)",
+      "population": "≈0.01%",
+      "facts": [
+        "Descendants of Leng Guang, a famous general during the Han Dynasty",
+        "Prominent in Shandong and Hebei provinces, with significant diaspora in the United States"
+      ]
+    },
+    {
+      "hanzi": "卓",
+      "yingwen": "Zhuo",
+      "ipa": "/ʈʂwɔ˥/",
+      "meaning": "Outstanding, eminent (symbolizing excellence and distinction)",
+      "population": "≈0.02%",
+      "facts": [
+        "Originated from the ancient state of Zhuo during the Zhou Dynasty",
+        "Many Zhuo families migrated to Taiwan during the Qing Dynasty"
+      ]
+    },
+    {
+      "hanzi": "花",
+      "yingwen": "Hua",
+      "ipa": "/xwɑ˥/",
+      "meaning": "Flower (symbolizing beauty and transience)",
+      "population": "≈0.02%",
+      "facts": [
+        "Linked to the ancient state of Hua during the Zhou Dynasty",
+        "Significant presence in Jiangsu and Zhejiang provinces, with connections to the Silk Road"
+      ]
+    },
+    {
+      "hanzi": "仇",
+      "yingwen": "Qiu",
+      "ipa": "/tɕʰjoʊ˧˥/",
+      "meaning": "Enemy, feud (symbolizing conflict and resolution)",
+      "population": "≈0.01%",
+      "facts": [
+        "Descendants of Qiu Ying, a famous painter during the Ming Dynasty",
+        "Many Qiu families migrated to Vietnam during the Tang Dynasty"
+      ]
+    },
+    {
+      "hanzi": "艾",
+      "yingwen": "Ai",
+      "ipa": "/aɪ˥˩/",
+      "meaning": "Mugwort (symbolizing healing and protection)",
+      "population": "≈0.01%",
+      "facts": [
+        "Originated from the ancient state of Ai during the Zhou Dynasty",
+        "Prominent in Hunan and Hubei provinces, with significant diaspora in Southeast Asia"
+      ]
+    },
+    {
+      "hanzi": "蓝",
+      "yingwen": "Lan",
+      "ipa": "/lan˧˥/",
+      "meaning": "Blue (symbolizing tranquility and depth)",
+      "population": "≈0.02%",
+      "facts": [
+        "Linked to the ancient state of Lan during the Zhou Dynasty",
+        "Many Lan families migrated to Malaysia during the Ming Dynasty"
+      ]
+    },
+    {
+      "hanzi": "都",
+      "yingwen": "Du",
+      "ipa": "/tu˥/",
+      "meaning": "Capital, metropolis (symbolizing centrality and importance)",
+      "population": "≈0.01%",
+      "facts": [
+        "Descendants of Du Fu, one of China's greatest poets from the Tang Dynasty",
+        "Significant presence in Sichuan and Chongqing provinces, with connections to the Ba culture"
+      ]
+    },
+    {
+      "hanzi": "巩",
+      "yingwen": "Gong",
+      "ipa": "/kʊŋ˧˥/",
+      "meaning": "Strong, firm (symbolizing stability and strength)",
+      "population": "≈0.01%",
+      "facts": [
+        "Originated from the ancient state of Gong during the Zhou Dynasty",
+        "Many Gong families migrated to Korea during the Tang Dynasty"
+      ]
+    },
+    {
+      "hanzi": "稽",
+      "yingwen": "Ji",
+      "ipa": "/tɕi˥/",
+      "meaning": "Check, investigate (symbolizing diligence and thoroughness)",
+      "population": "≈0.01%",
+      "facts": [
+        "Linked to the ancient state of Ji during the Zhou Dynasty",
+        "Prominent in Fujian and Guangdong provinces, with significant diaspora in Southeast Asia"
+      ]
+    },
+    {
+      "hanzi": "井",
+      "yingwen": "Jing",
+      "ipa": "/tɕiŋ˥˩/",
+      "meaning": "Well (symbolizing resourcefulness and community)",
+      "population": "≈0.01%",
+      "facts": [
+        "Descendants of Jing Ke, a famous assassin during the Warring States period",
+        "Many Jing families migrated to Vietnam during the Tang Dynasty"
+      ]
+    },
+    {
+      "hanzi": "练",
+      "yingwen": "Lian",
+      "ipa": "/ljɛn˧˥/",
+      "meaning": "Practice, train (symbolizing discipline and mastery)",
+      "population": "≈0.01%",
+      "facts": [
+        "Originated from the ancient state of Lian during the Zhou Dynasty",
+        "Significant presence in Jiangsu and Zhejiang provinces, with connections to the Silk Road"
+      ]
+    },
+    {
+      "hanzi": "仲",
+      "yingwen": "Zhong",
+      "ipa": "/ʈʂʊŋ˥˩/",
+      "meaning": "Middle, second (symbolizing balance and harmony)",
+      "population": "≈0.01%",
+      "facts": [
+        "Linked to the ancient state of Zhong during the Zhou Dynasty",
+        "Many Zhong families migrated to Korea during the Tang Dynasty"
+      ]
+    },
+    {
+      "hanzi": "乐",
+      "yingwen": "Le",
+      "ipa": "/lɤ˥˩/",
+      "meaning": "Joy, happiness (symbolizing contentment and pleasure)",
+      "population": "≈0.01%",
+      "facts": [
+        "Descendants of Le Yi, a famous general during the Warring States period",
+        "Prominent in Shandong and Hebei provinces, with significant diaspora in the United States"
+      ]
+    },
+    {
+      "hanzi": "虞",
+      "yingwen": "Yu",
+      "ipa": "/y˧˥/",
+      "meaning": "Concern, worry (symbolizing care and responsibility)",
+      "population": "≈0.01%",
+      "facts": [
+        "Originated from the ancient state of Yu during the Zhou Dynasty",
+        "Many Yu families migrated to Vietnam during the Tang Dynasty"
+      ]
+    },
+    {
+      "hanzi": "卞",
+      "yingwen": "Bian",
+      "ipa": "/bjɛn˥˩/",
+      "meaning": "Change, alter (symbolizing adaptability and transformation)",
+      "population": "≈0.01%",
+      "facts": [
+        "Linked to the ancient state of Bian during the Zhou Dynasty",
+        "Significant presence in Henan and Shandong provinces, with connections to the Silk Road"
+      ]
+    },
+    {
+      "hanzi": "封",
+      "yingwen": "Feng",
+      "ipa": "/fɤŋ˥/",
+      "meaning": "Seal, enclose (symbolizing security and preservation)",
+      "population": "≈0.01%",
+      "facts": [
+        "Descendants of Feng Dao, a famous scholar during the Five Dynasties period",
+        "Many Feng families migrated to Korea during the Tang Dynasty"
+      ]
+    },
+    {
+      "hanzi": "竺",
+      "yingwen": "Zhu",
+      "ipa": "/ʈʂu˥/",
+      "meaning": "Bamboo (symbolizing flexibility and resilience)",
+      "population": "≈0.01%",
+      "facts": [
+        "Originated from the ancient state of Zhu during the Zhou Dynasty",
+        "Prominent in Fujian and Guangdong provinces, with significant diaspora in Southeast Asia"
+      ]
+    },
+    {
+      "hanzi": "冼",
+      "yingwen": "Xian",
+      "ipa": "/ɕjɛn˨˩˦/",
+      "meaning": "To wash (symbolizing purity and cleansing)",
+      "population": "≈0.01%",
+      "facts": [
+        "Originated from the ancient Baiyue tribes in southern China",
+        "Prominent in Guangdong and Guangxi, with many descendants migrating to Southeast Asia during the 19th century"
+      ]
+    },
+    {
+      "hanzi": "原",
+      "yingwen": "Yuan",
+      "ipa": "/ɥɛn˧˥/",
+      "meaning": "Source or origin (symbolizing beginnings and foundational strength)",
+      "population": "≈0.05%",
+      "facts": [
+        "Descendants of the noble families from the Zhou Dynasty",
+        "Many migrated to Taiwan during the Qing Dynasty, forming significant communities"
+      ]
+    },
+    {
+      "hanzi": "官",
+      "yingwen": "Guan",
+      "ipa": "/kwan˥˥/",
+      "meaning": "Official (symbolizing authority and governance)",
+      "population": "≈0.03%",
+      "facts": [
+        "Traced back to officials in the Zhou Dynasty",
+        "Many Guan families settled in Fujian, with later migrations to Malaysia and Singapore"
+      ]
+    },
+    {
+      "hanzi": "衣",
+      "yingwen": "Yi",
+      "ipa": "/i˥˥/",
+      "meaning": "Clothing (symbolizing protection and identity)",
+      "population": "≈0.01%",
+      "facts": [
+        "Originated from the ancient state of Yi during the Zhou Dynasty",
+        "Concentrated in Shandong province, with some families moving to Korea during the Tang Dynasty"
+      ]
+    },
+    {
+      "hanzi": "楚",
+      "yingwen": "Chu",
+      "ipa": "/ʈʂʰu˨˩˦/",
+      "meaning": "Clear (symbolizing clarity and distinction)",
+      "population": "≈0.04%",
+      "facts": [
+        "Descendants of the Chu state during the Zhou Dynasty",
+        "Many Chu families migrated to Vietnam during the Yuan Dynasty"
+      ]
+    },
+    {
+      "hanzi": "佟",
+      "yingwen": "Tong",
+      "ipa": "/tʰʊŋ˧˥/",
+      "meaning": "Warm (symbolizing kindness and warmth)",
+      "population": "≈0.02%",
+      "facts": [
+        "Originated from the Manchu ethnic group during the Qing Dynasty",
+        "Many Tong families settled in Liaoning, with some migrating to the United States in the 20th century"
+      ]
+    },
+    {
+      "hanzi": "栗",
+      "yingwen": "Li",
+      "ipa": "/li˥˩/",
+      "meaning": "Chestnut (symbolizing strength and resilience)",
+      "population": "≈0.01%",
+      "facts": [
+        "Traced back to the ancient state of Li during the Zhou Dynasty",
+        "Concentrated in Henan province, with some families moving to Japan during the Tang Dynasty"
+      ]
+    },
+    {
+      "hanzi": "匡",
+      "yingwen": "Kuang",
+      "ipa": "/kʰwɑŋ˥˥/",
+      "meaning": "Rectify (symbolizing correction and improvement)",
+      "population": "≈0.02%",
+      "facts": [
+        "Descendants of the noble families from the Zhou Dynasty",
+        "Many Kuang families migrated to Taiwan during the Qing Dynasty"
+      ]
+    },
+    {
+      "hanzi": "宗",
+      "yingwen": "Zong",
+      "ipa": "/tsʊŋ˥˥/",
+      "meaning": "Ancestor (symbolizing lineage and heritage)",
+      "population": "≈0.03%",
+      "facts": [
+        "Originated from the ancient state of Zong during the Zhou Dynasty",
+        "Many Zong families settled in Jiangsu, with some migrating to the Philippines during the Ming Dynasty"
+      ]
+    },
+    {
+      "hanzi": "应",
+      "yingwen": "Ying",
+      "ipa": "/iŋ˥˥/",
+      "meaning": "Respond (symbolizing responsibility and duty)",
+      "population": "≈0.02%",
+      "facts": [
+        "Descendants of the noble families from the Zhou Dynasty",
+        "Many Ying families migrated to Southeast Asia during the 19th century"
+      ]
+    },
+    {
+      "hanzi": "台",
+      "yingwen": "Tai",
+      "ipa": "/tʰaɪ˧˥/",
+      "meaning": "Platform (symbolizing elevation and prominence)",
+      "population": "≈0.01%",
+      "facts": [
+        "Originated from the ancient state of Tai during the Zhou Dynasty",
+        "Concentrated in Shandong province, with some families moving to Korea during the Tang Dynasty"
+      ]
+    },
+    {
+      "hanzi": "巫",
+      "yingwen": "Wu",
+      "ipa": "/wu˥˥/",
+      "meaning": "Shaman (symbolizing spiritual connection)",
+      "population": "≈0.02%",
+      "facts": [
+        "Traced back to ancient shamans in the Shang Dynasty",
+        "Many Wu families settled in Fujian, with later migrations to Malaysia and Singapore"
+      ]
+    },
+    {
+      "hanzi": "鞠",
+      "yingwen": "Ju",
+      "ipa": "/tɕy˥˥/",
+      "meaning": "Bow (symbolizing respect and humility)",
+      "population": "≈0.01%",
+      "facts": [
+        "Descendants of the noble families from the Zhou Dynasty",
+        "Many Ju families migrated to Korea during the Tang Dynasty"
+      ]
+    },
+    {
+      "hanzi": "僧",
+      "yingwen": "Seng",
+      "ipa": "/sɤŋ˥˥/",
+      "meaning": "Monk (symbolizing spirituality and devotion)",
+      "population": "≈0.01%",
+      "facts": [
+        "Originated from Buddhist monks during the Tang Dynasty",
+        "Concentrated in Henan province, with some families moving to Japan during the Tang Dynasty"
+      ]
+    },
+    {
+      "hanzi": "桑",
+      "yingwen": "Sang",
+      "ipa": "/sɑŋ˥˥/",
+      "meaning": "Mulberry (symbolizing nourishment and growth)",
+      "population": "≈0.02%",
+      "facts": [
+        "Traced back to the ancient state of Sang during the Zhou Dynasty",
+        "Many Sang families settled in Shandong, with some migrating to Vietnam during the Yuan Dynasty"
+      ]
+    },
+    {
+      "hanzi": "荆",
+      "yingwen": "Jing",
+      "ipa": "/tɕiŋ˥˥/",
+      "meaning": "Thorn (symbolizing protection and defense)",
+      "population": "≈0.01%",
+      "facts": [
+        "Descendants of the noble families from the Zhou Dynasty",
+        "Many Jing families migrated to Taiwan during the Qing Dynasty"
+      ]
+    },
+    {
+      "hanzi": "谌",
+      "yingwen": "Chen",
+      "ipa": "/ʈʂʰən˧˥/",
+      "meaning": "Sincere (symbolizing honesty and integrity)",
+      "population": "≈0.01%",
+      "facts": [
+        "Originated from the ancient state of Chen during the Zhou Dynasty",
+        "Concentrated in Hunan province, with some families moving to Korea during the Tang Dynasty"
+      ]
+    },
+    {
+      "hanzi": "银",
+      "yingwen": "Yin",
+      "ipa": "/in˥˥/",
+      "meaning": "Silver (symbolizing wealth and purity)",
+      "population": "≈0.01%",
+      "facts": [
+        "Traced back to the ancient state of Yin during the Zhou Dynasty",
+        "Many Yin families settled in Sichuan, with some migrating to the United States in the 20th century"
+      ]
+    },
+    {
+      "hanzi": "扬",
+      "yingwen": "Yang",
+      "ipa": "/jɑŋ˧˥/",
+      "meaning": "Rise (symbolizing elevation and progress)",
+      "population": "≈0.02%",
+      "facts": [
+        "Descendants of the noble families from the Zhou Dynasty",
+        "Many Yang families migrated to Southeast Asia during the 19th century"
+      ]
+    },
+    {
+      "hanzi": "明",
+      "yingwen": "Ming",
+      "ipa": "/miŋ˧˥/",
+      "meaning": "Bright (symbolizing clarity and enlightenment)",
+      "population": "≈0.03%",
+      "facts": [
+        "Originated from the ancient state of Ming during the Zhou Dynasty",
+        "Concentrated in Zhejiang province, with some families moving to Japan during the Tang Dynasty"
+      ]
+    },
+    {
+      "hanzi": "沙",
+      "yingwen": "Sha",
+      "ipa": "/ʂɑ˥˥/",
+      "meaning": "Sand (symbolizing resilience and adaptability)",
+      "population": "≈0.01%",
+      "facts": [
+        "Traced back to the ancient state of Sha during the Zhou Dynasty",
+        "Many Sha families settled in Gansu, with some migrating to Central Asia during the Yuan Dynasty"
+      ]
+    },
+    {
+      "hanzi": "伏",
+      "yingwen": "Fu",
+      "ipa": "/fu˧˥/",
+      "meaning": "Prostrate (symbolizing humility and submission)",
+      "population": "≈0.01%",
+      "facts": [
+        "Descendants of the noble families from the Zhou Dynasty",
+        "Many Fu families migrated to Korea during the Tang Dynasty"
+      ]
+    },
+    {
+      "hanzi": "岑",
+      "yingwen": "Cen",
+      "ipa": "/tsʰən˧˥/",
+      "meaning": "High hill (symbolizing stability and elevation)",
+      "population": "≈0.01%",
+      "facts": [
+        "Originated from the ancient state of Cen during the Zhou Dynasty",
+        "Concentrated in Guangxi province, with some families moving to Vietnam during the Tang Dynasty"
+      ]
+    },
+    {
+      "hanzi": "胥",
+      "yingwen": "Xu",
+      "ipa": "/ɕy˥˥/",
+      "meaning": "Assistant (symbolizing support and cooperation)",
+      "population": "≈0.01%",
+      "facts": [
+        "Traced back to the ancient state of Xu during the Zhou Dynasty",
+        "Many Xu families settled in Jiangsu, with some migrating to the Philippines during the Ming Dynasty"
+      ]
+    },
+    {
+      "hanzi": "保",
+      "yingwen": "Bao",
+      "ipa": "/pɑʊ˨˩˦/",
+      "meaning": "Protect (symbolizing safety and guardianship)",
+      "population": "≈0.01%",
+      "facts": [
+        "Descendants of the noble families from the Zhou Dynasty",
+        "Many Bao families migrated to Southeast Asia during the 19th century"
+      ]
+    },
+    {
+      "hanzi": "和",
+      "yingwen": "He",
+      "ipa": "/xɤ˧˥/",
+      "meaning": "Harmony (symbolizing balance and peace)",
+      "population": "≈0.02%",
+      "facts": [
+        "Originated from the ancient state of He during the Zhou Dynasty",
+        "Concentrated in Yunnan province, with some families moving to Myanmar during the Qing Dynasty"
+      ]
+    },
+    {
+      "hanzi": "蔺",
+      "yingwen": "Lin",
+      "ipa": "/lin˥˩/",
+      "meaning": "Rush (a type of plant, symbolizing flexibility and adaptability)",
+      "population": "≈0.01%",
+      "facts": [
+        "Traced back to the ancient state of Lin during the Zhou Dynasty",
+        "Many Lin families settled in Shanxi, with some migrating to Korea during the Tang Dynasty"
+      ]
+    },
+    {
+      "hanzi": "习",  
+      "yingwen": "Xi",  
+      "ipa": "/ɕi˧˥/",  
+      "meaning": "Practice, habit; symbolizes learning and continuous improvement",  
+      "population": "≈0.01%",  
+      "facts": [  
+        "The surname Xi originated from the ancient place name 'Shaoxi' in the Qin State during the Spring and Autumn period, now located about 180 miles east of Shang County, Shaanxi. It was later known as Wuguan, and people residing there adopted Xi as their surname.",  
+        "Many individuals from the Xī ethnic minority group, after integrating into Han culture, changed their surnames to Xi or Xi.",  
+        "The Xi surname is widely distributed across China, with approximately 87% of the population concentrated in Hunan and Shaanxi provinces."  
+      ]
+    }
+  ]
+}

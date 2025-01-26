@@ -3,63 +3,76 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chinese Name Generator</title>
-    <link rel="stylesheet" href="css/style.css">
+    <title>Chinese Name Generator - Create Perfect Chinese Names</title>
+    <meta name="description" content="Generate authentic Chinese names with our advanced Chinese name generator. Perfect for finding Chinese names for boys, girls, or creating your own Chinese name.">
+    <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
     <header>
-        <button id="menuBtn" class="menu-btn">
-            <span class="menu-icon">☰</span>
-            MENU
-        </button>
+        <button class="menu-btn bold">MENU</button>
         <h1>Chinese Name Generator</h1>
-        <div class="header-right">
-            <button class="lang-btn">EN</button>
-            <button class="settings-btn">⚙</button>
-        </div>
+        <button class="lang-switch bold">EN</button>
     </header>
 
+    <div class="menu-panel">
+        <nav class="menu-links">
+            <a href="pages/generator.html">Chinese Name Generator</a>
+            <a href="pages/girls.html">Chinese Names for Girls</a>
+            <a href="#">Chinese Names for Boys</a>
+            <a href="#">Common Chinese Last Names</a>
+            <a href="#">Chinese Girl Names</a>
+            <a href="#">Chinese Boy Names</a>
+            <a href="#">Chinese Last Names</a>
+            <a href="#">Chinese First Names Male</a>
+            <a href="#">Chinese Male Names</a>
+            <a href="#">Chinese Family Names</a>
+            <a href="#">Chinese Female Names</a>
+            <a href="#">Chinese Name Surname</a>
+            <a href="#">Chinese Names in Chinese</a>
+            <a href="#">Chinese Names and Surnames</a>
+        </nav>
+    </div>
+
     <main>
-        <div class="translator-container">
-            <div class="input-section">
-                <h2>Your Name</h2>
-                <textarea id="englishName" placeholder="Enter your English name..."></textarea>
+        <section class="hero">
+            <h2>Welcome to Chinese Name Generator</h2>
+            <p>Discover the perfect Chinese name with our comprehensive name generation tools. Whether you're looking for traditional or modern Chinese names, we offer various options to help you find the ideal name.</p>
+            <div class="featured-tools">
+                <a href="pages/generator.html" class="tool-card">
+                    <h3>Name Generator</h3>
+                    <p>Create your perfect Chinese name with our advanced generator</p>
+                </a>
+                <a href="pages/girls.html" class="tool-card">
+                    <h3>Girls Names</h3>
+                    <p>Browse beautiful Chinese names for girls</p>
+                </a>
+                <a href="#" class="tool-card">
+                    <h3>Boys Names</h3>
+                    <p>Explore meaningful Chinese names for boys</p>
+                </a>
             </div>
-
-            <div class="style-section">
-                <h3>Style Preferences</h3>
-                <div class="style-options">
-                    <div class="style-option selected" data-style="classical">
-                        Classical Style
-                    </div>
-                    <div class="style-option" data-style="modern">
-                        Modern Style
-                    </div>
-                    <div class="style-option" data-style="artistic">
-                        Artistic Style
-                    </div>
-                </div>
-                <button id="generateBtn" class="generate-btn">Generate Name</button>
-            </div>
-
-            <div class="output-section">
-                <h2>Chinese Name</h2>
-                <div id="chineseName" class="output-display"></div>
-            </div>
-        </div>
-
-        <section class="info-section">
-            <h2>What Is the Chinese Name Generator?</h2>
-            <p>The Chinese Name Generator helps you create a meaningful Chinese name based on your English name. It uses traditional Chinese characters and cultural elements to generate names that respect Chinese naming conventions.</p>
-            
-            <h3>How to Use:</h3>
-            <p>Simply enter your English name in the input box, select your preferred style, and click the "Generate Name" button. The tool will create a culturally appropriate Chinese name for you.</p>
-            
-            <h3>Note:</h3>
-            <p>Each generated name is carefully crafted to maintain balance between meaning, pronunciation, and cultural significance.</p>
         </section>
     </main>
 
-    <script src="js/script.js"></script>
+    <footer>
+        <div class="footer-content">
+            <div class="footer-links">
+                <a href="/about">About Us</a>
+                <a href="/contact">Contact Us</a>
+                <a href="/privacy">Privacy Policy</a>
+                <a href="/terms">Terms of Use</a>
+            </div>
+            <div class="footer-tools">
+                <a href="/tools">More Tools</a>
+            </div>
+        </div>
+        <div class="copyright">
+            © 2024 Chinese Name Generator. All rights reserved.
+        </div>
+    </footer>
+
+    <script src="js/config.js"></script>
+    <script src="js/common.js"></script>
+    <script src="js/main.js"></script>
 </body>
 </html> 

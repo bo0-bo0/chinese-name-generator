@@ -1,0 +1,155 @@
+/* 介绍部分样式 */
+.intro-section {
+    margin-bottom: 3rem;
+}
+
+.intro-section h2 {
+    font-size: 1.8rem;
+    color: #333;
+    margin-bottom: 1.5rem;
+}
+
+.intro-section p {
+    color: #666;
+    line-height: 1.8;
+    margin-bottom: 1rem;
+}
+
+/* 姓氏网格布局 */
+.surnames-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(600px, 1fr));
+    gap: 2rem;
+    margin-bottom: 2rem;
+}
+
+/* 姓氏卡片样式 */
+.surname-card {
+    display: flex;
+    background: #fff;
+    border: 1px solid #eee;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: all 0.3s ease;
+}
+
+.surname-card:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    transform: translateY(-2px);
+}
+
+/* 卡片左侧信息 */
+.surname-info {
+    flex: 1;
+    padding: 1.5rem;
+    border-right: 1px solid #eee;
+}
+
+.hanzi {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    color: #333;
+}
+
+.yingwen {
+    font-size: 1.2rem;
+    color: #666;
+    margin-bottom: 0.5rem;
+}
+
+.ipa {
+    font-family: monospace;
+    color: #888;
+    margin-bottom: 0.5rem;
+}
+
+.meaning {
+    color: #666;
+    margin-bottom: 0.5rem;
+    line-height: 1.4;
+}
+
+.population {
+    color: #888;
+    font-size: 0.9rem;
+}
+
+/* 卡片右侧事实 */
+.surname-facts {
+    flex: 1;
+    padding: 1.5rem;
+    background: #f9f9f9;
+}
+
+.facts-list {
+    list-style: none;
+    padding: 0;
+}
+
+.facts-list li {
+    margin-bottom: 1rem;
+    color: #666;
+    line-height: 1.4;
+    position: relative;
+    padding-left: 1.2rem;
+}
+
+.facts-list li:before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: #333;
+}
+
+/* 分页控件样式 */
+.pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+    margin-top: 2rem;
+    padding: 1rem;
+}
+
+.pagination button {
+    padding: 0.5rem 1rem;
+    border: 1px solid #ddd;
+    background: #fff;
+    color: #333;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.pagination button:hover {
+    background: #f5f5f5;
+}
+
+.pagination button.active {
+    background: #333;
+    color: #fff;
+    border-color: #333;
+}
+
+.pagination button:disabled {
+    background: #f5f5f5;
+    color: #999;
+    cursor: not-allowed;
+}
+
+/* 响应式布局 */
+@media (max-width: 768px) {
+    .surnames-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .surname-card {
+        flex-direction: column;
+    }
+
+    .surname-info {
+        border-right: none;
+        border-bottom: 1px solid #eee;
+    }
+} 

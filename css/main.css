@@ -1,0 +1,159 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #fff;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    border-bottom: 1px solid #eee;
+}
+
+.menu-btn, .lang-switch {
+    padding: 0.5rem 1rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background: none;
+    cursor: pointer;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+h2 {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    color: #666;
+}
+
+button {
+    padding: 0.5rem 1rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background: #fff;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+button:hover {
+    background: #f5f5f5;
+}
+
+button.active {
+    background: #333;
+    color: #fff;
+    border-color: #333;
+}
+
+/* 添加粗体类 */
+.bold {
+    font-weight: bold;
+}
+
+/* 菜单面板样式 */
+.menu-panel {
+    position: fixed;
+    top: 0;
+    left: -300px;
+    width: 300px;
+    height: 100vh;
+    background: white;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+    transition: left 0.3s ease;
+    z-index: 1000;
+    overflow-y: auto;
+}
+
+.menu-panel.active {
+    left: 0;
+}
+
+.menu-links {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.menu-links a {
+    padding: 10px 0;
+    color: #333;
+    text-decoration: none;
+}
+
+.menu-links a:hover {
+    color: #666;
+}
+
+/* SEO 区域样式 */
+.seo-section {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background: #fff;
+    border-radius: 4px;
+}
+
+.seo-section h2 {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 1rem;
+}
+
+.seo-section p {
+    color: #666;
+    line-height: 1.6;
+}
+
+/* 底栏样式 */
+footer {
+    background: #f8f8f8;
+    padding: 2rem;
+    margin-top: 4rem;
+    border-top: 1px solid #eee;
+}
+
+.footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-links {
+    display: flex;
+    gap: 2rem;
+}
+
+.footer-links a, .footer-tools a {
+    color: #333;
+    text-decoration: none;
+    font-size: 0.9rem;
+}
+
+.footer-links a:hover, .footer-tools a:hover {
+    color: #666;
+}
+
+.copyright {
+    max-width: 800px;
+    margin: 1rem auto 0;
+    padding-top: 1rem;
+    border-top: 1px solid #eee;
+    text-align: center;
+    color: #666;
+    font-size: 0.8rem;
+} 

@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chinese Names for Girls - Name Generator</title>
+    <link rel="stylesheet" href="../css/main.css">
+    <link rel="stylesheet" href="../css/Chinese Names for Girls.css">
+</head>
+<body>
+    <header>
+        <button class="menu-btn bold">MENU</button>
+        <h1>Chinese Names for Girls</h1>
+        <button class="lang-switch bold">EN</button>
+    </header>
+
+    <div class="menu-panel">
+        <nav class="menu-links">
+            <a href="../index.html">Home</a>
+            <a href="generator.html">Chinese Name Generator</a>
+            <a href="girls.html" class="active">Chinese Names for Girls</a>
+            <a href="#">Chinese Names for Boys</a>
+            <a href="#">Common Chinese Last Names</a>
+            <a href="#">Chinese Girl Names</a>
+            <a href="#">Chinese Boy Names</a>
+            <a href="#">Chinese Last Names</a>
+            <a href="#">Chinese First Names Male</a>
+            <a href="#">Chinese Male Names</a>
+            <a href="#">Chinese Family Names</a>
+            <a href="#">Chinese Female Names</a>
+            <a href="#">Chinese Name Surname</a>
+            <a href="#">Chinese Names in Chinese</a>
+        </nav>
+    </div>
+
+    <main>
+        <section class="options">
+            <div class="options-grid">
+                <div class="option-group">
+                    <h2>Core Dimensions</h2>
+                    <div class="buttons">
+                        <button data-dimension="nature">Nature</button>
+                        <button data-dimension="virtue">Virtue</button>
+                        <button data-dimension="appearance">Appearance</button>
+                    </div>
+                </div>
+
+                <div class="option-group">
+                    <h2>Emotional Dimensions</h2>
+                    <div class="buttons">
+                        <button data-dimension="expectation">Expectation</button>
+                        <button data-dimension="protection">Protection</button>
+                        <button data-dimension="poetic">Poetic</button>
+                    </div>
+                </div>
+
+                <div class="option-group">
+                    <h2>Era Styles</h2>
+                    <div class="buttons">
+                        <button data-dimension="classical">Classical</button>
+                        <button data-dimension="modern">Modern</button>
+                        <button data-dimension="new_gen">New Generation</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="option-group">
+                <h2>Fixed Surname (Optional)</h2>
+                <div class="input-group">
+                    <input type="text" id="surname" placeholder="Enter surname">
+                </div>
+            </div>
+
+            <div class="option-group">
+                <h2>Fixed Character</h2>
+                <div class="fixed-char-group">
+                    <input type="text" id="fixedChar" placeholder="Enter character" maxlength="1">
+                    <div class="buttons">
+                        <button data-position="middle">Middle Position</button>
+                        <button data-position="end">End Position</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="option-group">
+                <h2>生成数量</h2>
+                <div class="count-control">
+                    <input type="range" id="nameCount" min="1" max="5" value="2" class="count-slider">
+                    <span id="countDisplay">2</span>
+                </div>
+            </div>
+        </section>
+
+        <button id="generateBtn" class="generate-btn">Generate Names</button>
+
+        <section id="results" class="results">
+            <!-- Results will be displayed here -->
+        </section>
+    </main>
+
+    <section class="seo-section">
+        <h2>Chinese Names for Girls Generator</h2>
+        <p>Create beautiful and meaningful Chinese names for girls with our specialized generator. Drawing from traditional Chinese naming principles, this tool helps you craft names that reflect nature's beauty, virtuous qualities, and modern sensibilities. Whether you're looking for a name with classical elegance or contemporary charm, our generator combines cultural authenticity with personal meaning.</p>
+        <div class="seo-features">
+            <h3>Features:</h3>
+            <ul>
+                <li>Core dimensions including nature, virtue, and appearance elements</li>
+                <li>Emotional aspects reflecting parental hopes and protection</li>
+                <li>Multiple era styles from classical to modern</li>
+                <li>Detailed character meanings and pronunciations</li>
+                <li>Option to include specific characters or surnames</li>
+            </ul>
+        </div>
+    </section>
+
+    <footer>
+        <div class="footer-content">
+            <div class="footer-links">
+                <a href="/about">About Us</a>
+                <a href="/contact">Contact Us</a>
+                <a href="/privacy">Privacy Policy</a>
+                <a href="/terms">Terms of Use</a>
+            </div>
+            <div class="footer-tools">
+                <a href="/tools">More Tools</a>
+            </div>
+        </div>
+        <div class="copyright">
+            © 2024 Chinese Name Generator. All rights reserved.
+        </div>
+    </footer>
+
+    <script src="../js/config.js"></script>
+    <script src="../js/common.js"></script>
+    <script src="../js/Chinese Names for Girls.js"></script>
+</body>
+</html> 
