@@ -48,21 +48,6 @@ Era Characteristics:
 };
 
 document.addEventListener('DOMContentLoaded', () => {
-    // 菜单控制
-    const menuBtn = document.querySelector('.menu-btn');
-    const menuPanel = document.querySelector('.menu-panel');
-    
-    menuBtn.addEventListener('click', () => {
-        menuPanel.classList.toggle('active');
-    });
-
-    // 点击菜单外区域关闭菜单
-    document.addEventListener('click', (e) => {
-        if (!menuPanel.contains(e.target) && !menuBtn.contains(e.target)) {
-            menuPanel.classList.remove('active');
-        }
-    });
-
     // State management
     const state = {
         style: '',
