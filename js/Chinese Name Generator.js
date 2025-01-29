@@ -141,8 +141,7 @@ ${state.era ? GENERATOR_CONFIG.ERA_RULES : ''}`;
             const response = await fetch(CONFIG.API_URL, {
                 method: 'POST',
                 headers: {
-                    'Content-Type': 'application/json',
-                    'Authorization': `Bearer ${CONFIG.API_KEY}`
+                    'Content-Type': 'application/json'
                 },
                 body: JSON.stringify({
                     ...CONFIG.API_CONFIG,

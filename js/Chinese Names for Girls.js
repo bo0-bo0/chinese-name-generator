@@ -143,10 +143,6 @@ ${GIRLS_CONFIG.OUTPUT_FORMAT}`;
 
             const response = await fetch(CONFIG.API_URL, {
                 method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json',
-                    'Authorization': `Bearer ${CONFIG.API_KEY}`
-                },
                 body: JSON.stringify({
                     ...CONFIG.API_CONFIG,
                     messages: [
