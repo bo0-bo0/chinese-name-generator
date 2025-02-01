@@ -15,7 +15,7 @@ const CONFIG = {
 
     // API 配置
     API_CONFIG: {
-        model: "deepseek-chat",
+        model: "deepseek-ai/DeepSeek-V3",
         temperature: 0.8,
         max_tokens: 2000
     }

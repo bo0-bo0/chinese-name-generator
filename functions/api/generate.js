@@ -7,7 +7,7 @@ export default {
         throw new Error('API_KEY is not configured');
       }
 
-      const API_URL = env.API_URL || "https://api.deepseek.com/v1/chat/completions";
+      const API_URL = env.API_URL || "https://api.siliconflow.cn/v1/chat/completions";
 
       // 检查请求方法
       if (request.method === "OPTIONS") {
@@ -36,7 +36,7 @@ export default {
           "Authorization": `Bearer ${API_KEY}`
         },
         body: JSON.stringify({
-          model: requestData.model || "deepseek-chat",
+          model: requestData.model || "deepseek-ai/DeepSeek-V3",
           temperature: requestData.temperature || 0.8,
           max_tokens: requestData.max_tokens || 2000,
           messages: requestData.messages
