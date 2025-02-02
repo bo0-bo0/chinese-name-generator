@@ -143,6 +143,9 @@ ${BOYS_CONFIG.OUTPUT_FORMAT}`;
 
             const response = await fetch(CONFIG.API_URL, {
                 method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
                 body: JSON.stringify({
                     ...CONFIG.API_CONFIG,
                     messages: [
