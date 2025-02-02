@@ -28,8 +28,8 @@ const GENERATOR_CONFIG = {
     },
     OUTPUT_FORMAT: `[
     {
-        "中文名": "张三水",
-        "英文名": "Sanshui Zhang"
+        "chinese_name": "张三水",
+        "english_name": "Sanshui Zhang"
     }
 ]`,
     STYLE_RULES: `
@@ -197,9 +197,8 @@ ${state.era ? GENERATOR_CONFIG.ERA_RULES : ''}`;
             }
 
             names.forEach(name => {
-                // 支持两种格式：Chinese/English 或 中文名/英文名
-                const chineseName = name.Chinese || name.中文名;
-                const englishName = name.English || name.英文名;
+                const chineseName = name.chinese_name;
+                const englishName = name.english_name;
 
                 if (!chineseName || !englishName) {
                     throw new Error('Invalid name format');

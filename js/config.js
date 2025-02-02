@@ -2,7 +2,7 @@ const CONFIG = {
     // API配置，支持本地开发和生产环境
     API_URL: window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
         ? 'http://127.0.0.1:8787/api/generate'  // 本地开发环境
-        : 'https://name4cn.site/api/generate',  // 生产环境
+        : '/api/generate',  // 生产环境（使用相对路径）
     DEBUG_MODE: window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1',
     SYSTEM_PROMPT: `You are a Chinese name generator. Please follow these basic rules:
 
@@ -13,8 +13,12 @@ const CONFIG = {
 
 2. Output Format:
    - Must be a valid JSON array
-   - No additional text or explanations outside the JSON
-   - Each name object must include Chinese and English versions`,
+   - Each name object must have exactly this format:
+     {
+       "chinese_name": "张三水",
+       "english_name": "Sanshui Zhang"
+     }
+   - No additional text or explanations outside the JSON`,
 
     // API 配置
     API_CONFIG: {
